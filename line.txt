@@ -1,0 +1,16 @@
+||search.yahoo.co.jp^
+||a.line.me^
+||square-api.line.me^
+||voom-obs.line-scdn.net^
+||voom-assets.line-scdn.net^
+||linevoom.line.me^
+||oamm.line-scdn.net^
+||nukistream.com^
+||echiechi-deai.com^
+||news-obs.line-scdn.net^
+||news.line-apps.com^
+||ch-news.line-apps.com^
+||yuki-cdn.line-apps.com^
+||vessel.line-apps.com^
+||lss-vml.line-scdn.net^
+||monary.line-scdn.net^
