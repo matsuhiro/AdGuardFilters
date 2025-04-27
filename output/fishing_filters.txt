@@ -21,6 +21,7 @@
 ||elitehackers.info^
 ||emotet.info^
 ||evilzone.org^
+||exploit.in^
 ||facebook-login.net^
 ||g00gle.com^
 ||g2a.com^
@@ -46,7 +47,6 @@
 ||paypal-update.com^
 ||paypal-verification.com^
 ||phishing.org^
-||piratebayblocked.com^
 ||santosdumontairlines.com.br^
 ||security-paypal-center.com^
 ||servicenow-support.com^

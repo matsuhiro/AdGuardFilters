@@ -14,3 +14,8 @@
 ||vessel.line-apps.com^
 ||lss-vml.line-scdn.net^
 ||monary.line-scdn.net^
+||uts-front.line-apps.com^
+||sentry-uit.line-apps.com^
+||line-scdn.net^
+@@||obs.line-scdn.net^
+@@||stickershop.line-scdn.net^

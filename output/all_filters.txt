@@ -1,3 +1,5 @@
+@@||obs.line-scdn.net^
+@@||stickershop.line-scdn.net^
 ||0day.today^
 ||10luxury39.com^
 ||10musume.com^
@@ -262,6 +264,7 @@
 ||evilangel.com^
 ||evilzone.org^
 ||exhentai.org^
+||exploit.in^
 ||extremetube.com^
 ||facebook-login.net^
 ||facebook.com^
@@ -296,7 +299,6 @@
 ||g2a.com^
 ||gab.com^
 ||gaiaonline.com^
-||gameruprising.to^
 ||gaydar.net^
 ||gelbooru.com^
 ||getcracksoftware.com^
@@ -405,6 +407,7 @@
 ||lifeislonely.com^
 ||lifeislost.com^
 ||lightfighter.net^
+||line-scdn.net^
 ||linemanga-obs.line-scdn.net^
 ||linevoom.line.me^
 ||linkedin.com^
@@ -535,7 +538,6 @@
 ||piccoma.com^
 ||pillreports.net^
 ||pinterest.com^
-||piratebayblocked.com^
 ||pixiv.net^
 ||playboy.com^
 ||playboyplus.com^
@@ -608,6 +610,7 @@
 ||selfmedicated.org^
 ||seniorfriendfinder.com^
 ||sensiseeds.com^
+||sentry-uit.line-apps.com^
 ||servicenow-support.com^
 ||shaadi.com^
 ||shadow-socks.com^
@@ -723,6 +726,7 @@
 ||ups-claim.com^
 ||usacarry.com^
 ||usmessageboard.com^
+||uts-front.line-apps.com^
 ||uzitalk.com^
 ||vdare.com^
 ||vessel.line-apps.com^

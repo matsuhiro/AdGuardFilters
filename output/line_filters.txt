@@ -1,5 +1,8 @@
+@@||obs.line-scdn.net^
+@@||stickershop.line-scdn.net^
 ||ch-news.line-apps.com^
 ||echiechi-deai.com^
+||line-scdn.net^
 ||linevoom.line.me^
 ||lss-vml.line-scdn.net^
 ||monary.line-scdn.net^
@@ -8,7 +11,9 @@
 ||nukistream.com^
 ||oamm.line-scdn.net^
 ||search.yahoo.co.jp^
+||sentry-uit.line-apps.com^
 ||square-api.line.me^
+||uts-front.line-apps.com^
 ||vessel.line-apps.com^
 ||voom-assets.line-scdn.net^
 ||voom-obs.line-scdn.net^
