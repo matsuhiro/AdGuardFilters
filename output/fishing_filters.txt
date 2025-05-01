@@ -7,6 +7,7 @@
 ||blackhatforum.com^
 ||blackhatworld.com^
 ||botnet.in^
+||bruteforcelab.com^
 ||carder.uk^
 ||chasebankverify.com^
 ||cheatengine.org^

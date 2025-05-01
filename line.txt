@@ -5,8 +5,6 @@
 ||voom-assets.line-scdn.net^
 ||linevoom.line.me^
 ||oamm.line-scdn.net^
-||nukistream.com^
-||echiechi-deai.com^
 ||news-obs.line-scdn.net^
 ||news.line-apps.com^
 ||ch-news.line-apps.com^
