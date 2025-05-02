@@ -15,6 +15,7 @@ import argparse
 import glob
 import os
 import sys
+import datetime
 
 # ---------- 共通ユーティリティ ----------
 def read_domains_from_file(path: str) -> set[str]:
@@ -45,7 +46,6 @@ def write_domains_to_file(path: str, domains: set[str]) -> None:
         print(f"[OK] {path} に {len(domains):,} 件を書き出しました。")
     except OSError as e:
         print(f"[ERROR] {path}: {e}", file=sys.stderr)
-
 
 # ---------- メイン処理 ----------
 def main() -> None:
@@ -102,10 +102,28 @@ def main() -> None:
 
         union_new_domains |= new_domains  # 結合用に追加
 
-    # 結合ファイルを出力
+    # 結合ファイルを出力（ヘッダー付き）
     combined_out = os.path.join(args.output_dir, "all_filters.txt")
-    write_domains_to_file(combined_out, union_new_domains)
-
+    # ヘッダーコメントを生成
+    now = datetime.datetime.utcnow().isoformat(timespec='milliseconds') + 'Z'
+    header_lines = [
+        f"! Title: Japan Youth Restricted Filter",
+        f"! Description: It contains a blacklist of content considered inappropriate for young people in Japan; restricts inappropriate content on LINE and Yahoo searches.",
+        f"! Homepage: https://github.com/matsuhiro/AdGuardFilters",
+        f"! Last modified: {now}"
+    ]
+    try:
+        with open(combined_out, 'w', encoding='utf-8') as f:
+            # コメントヘッダー
+            for line in header_lines:
+                f.write(line + '\n')
+            f.write('\n')  # ドメインリスト前の空行
+            # ドメインリスト本体
+            for d in sorted(union_new_domains):
+                f.write(d + '\n')
+        print(f"[OK] {combined_out} に {len(union_new_domains):,} 件を書き出しました。")
+    except OSError as e:
+        print(f"[ERROR] {combined_out}: {e}", file=sys.stderr)
 
 if __name__ == "__main__":
     main()

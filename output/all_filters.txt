@@ -1,3 +1,8 @@
+! Title: Japan Youth Restricted Filter
+! Description: It contains a blacklist of content considered inappropriate for young people in Japan; restricts inappropriate content on LINE and Yahoo searches.
+! Homepage: https://github.com/matsuhiro/AdGuardFilters
+! Last modified: 2025-05-02T12:07:03.454Z
+
 @@||obs.line-scdn.net^
 @@||stickershop.line-scdn.net^
 ||0day.today^
