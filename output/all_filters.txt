@@ -1,8 +1,14 @@
 ! Title: Japan Youth Restricted Filter
 ! Description: It contains a blacklist of content considered inappropriate for young people in Japan; restricts inappropriate content on LINE and Yahoo searches.
 ! Homepage: https://github.com/matsuhiro/AdGuardFilters
-! Last modified: 2025-05-02T12:07:03.454Z
+! Last modified: 2025-05-02T21:30:32.995Z
 
+! ||lss-vml.line-scdn.net^
+! ||monary.line-scdn.net^
+! ||news-obs.line-scdn.net^
+! ||oamm.line-scdn.net^
+! ||voom-assets.line-scdn.net^
+! ||voom-obs.line-scdn.net^
 @@||obs.line-scdn.net^
 @@||stickershop.line-scdn.net^
 ||0day.today^
@@ -429,7 +435,6 @@
 ||lostallhope.com^
 ||lostsoulforum.com^
 ||loveandseek.com^
-||lss-vml.line-scdn.net^
 ||luckygunner.com^
 ||lumenapp.com^
 ||m4carbine.net^
@@ -476,7 +481,6 @@
 ||moekuro.com^
 ||mollycoddle.com^
 ||momon-ga.com^
-||monary.line-scdn.net^
 ||motherless.com^
 ||mushroomcompanion.com^
 ||muslima.com^
@@ -498,7 +502,6 @@
 ||netshade.net^
 ||newgrounds.com^
 ||newnation.org^
-||news-obs.line-scdn.net^
 ||news.line-apps.com^
 ||nicovideo.jp^
 ||niggermania.com^
@@ -506,7 +509,6 @@
 ||nra.org^
 ||nshn.co.uk^
 ||nukistream.com^
-||oamm.line-scdn.net^
 ||occidentaldissent.com^
 ||ok.ru^
 ||okcupid.com^
@@ -741,8 +743,6 @@
 ||vk.com^
 ||vnnforum.com^
 ||voat.co^
-||voom-assets.line-scdn.net^
-||voom-obs.line-scdn.net^
 ||vortexoptics.com^
 ||vtunnel.com^
 ||waltherforums.com^
