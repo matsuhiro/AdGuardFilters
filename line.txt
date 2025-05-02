@@ -1,18 +1,14 @@
 ||a.line.me^
 ||square-api.line.me^
-! ||voom-obs.line-scdn.net^
-! ||voom-assets.line-scdn.net^
 ||linevoom.line.me^
-! ||oamm.line-scdn.net^
-! ||news-obs.line-scdn.net^
 ||news.line-apps.com^
 ||ch-news.line-apps.com^
 ||yuki-cdn.line-apps.com^
 ||vessel.line-apps.com^
-! ||lss-vml.line-scdn.net^
-! ||monary.line-scdn.net^
 ||uts-front.line-apps.com^
 ||sentry-uit.line-apps.com^
 ||line-scdn.net^
 @@||obs.line-scdn.net^
 @@||stickershop.line-scdn.net^
+@@||pagepoker.line-scdn.net^
+@@||manager.line-scdn.net^
