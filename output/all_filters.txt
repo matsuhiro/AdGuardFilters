@@ -1,7 +1,7 @@
 ! Title: Japan Youth Restricted Filter
 ! Description: It contains a blacklist of content considered inappropriate for young people in Japan; restricts inappropriate content on LINE and Yahoo searches.
 ! Homepage: https://github.com/matsuhiro/AdGuardFilters
-! Last modified: 2025-05-02T21:47:16.123Z
+! Last modified: 2025-05-03T06:27:27.076Z
 
 @@||manager.line-scdn.net^
 @@||obs.line-scdn.net^
@@ -334,6 +334,7 @@
 ||gunowners.org^
 ||guns.com^
 ||guyspy.com^
+||gw.line.naver.jp^
 ||habbo.com^
 ||hackforums.net^
 ||hanime.tv^
@@ -590,6 +591,7 @@
 ||renegadetribune.com^
 ||renren.com^
 ||researchchemicals.net^
+||rmp.rakuten.co.jp^$important
 ||ro89.com^
 ||roblox.com^
 ||rockislandauction.com^
@@ -603,6 +605,7 @@
 ||sanctuaryofhopelessness.com^
 ||sankakucomplex.com^
 ||santosdumontairlines.com.br^
+||scdn.line-apps.com^
 ||schooluranet.com^
 ||sdc.com^
 ||search.yahoo.co.jp^

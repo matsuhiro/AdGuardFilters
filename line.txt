@@ -1,4 +1,6 @@
 ||a.line.me^
+||gw.line.naver.jp^
+||scdn.line-apps.com^
 ||square-api.line.me^
 ||linevoom.line.me^
 ||news.line-apps.com^

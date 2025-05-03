@@ -1,1 +1,2 @@
 ||search.yahoo.co.jp^
+||im.c.yimg.jp^

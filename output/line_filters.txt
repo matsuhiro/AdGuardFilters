@@ -3,9 +3,11 @@
 @@||pagepoker.line-scdn.net^
 @@||stickershop.line-scdn.net^
 ||ch-news.line-apps.com^
+||gw.line.naver.jp^
 ||line-scdn.net^
 ||linevoom.line.me^
 ||news.line-apps.com^
+||scdn.line-apps.com^
 ||sentry-uit.line-apps.com^
 ||square-api.line.me^
 ||uts-front.line-apps.com^
