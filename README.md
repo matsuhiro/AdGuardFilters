@@ -34,9 +34,10 @@ chmod +x make_all_filter.sh BlockLists/download_all.sh
 
 ### `BlockLists/download_all.sh`
 
-- Downloads 48 predefined URLs using `wget`, saving each file into `BlockLists/downloads/` with a filename composed of its MD5 hash and the original file basename.
-- Records any failed URL downloads in `BlockLists/download_failed.log`.
-- **Dependencies:** `bash`, `wget`, `md5sum`.
+- Fetches the `filters.json` file from the AdGuard HostlistsRegistry and extracts each `downloadUrl` entry.
+- **Dependencies:** `bash`, `wget`, `jq`, `coreutils` (provides `gmd5sum` or `md5`).
+- Downloads all extracted URLs into `BlockLists/downloads/`, naming each file with its MD5 hash and original basename.
+- Logs any failed download URLs to `BlockLists/download_failed.log`.
 
 ### `filter_domains.py`
 
