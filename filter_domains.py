@@ -6,7 +6,7 @@
     output/<ターゲット名>_filters.txt   （ターゲットごとの新規ドメイン）
     output/all_filters.txt              （ターゲット全体を統合した新規ドメイン）
 
-に書き出す。
+に書き出す。その際、有効なドメインのみ（Status=0）を all_filters.txt に含める。
 
 使い方:
     python check_domains.py target1.txt target2.txt ...
@@ -16,6 +16,8 @@ import glob
 import os
 import sys
 import datetime
+import json
+import urllib.request
 
 # ---------- 共通ユーティリティ ----------
 def read_domains_from_file(path: str) -> set[str]:
@@ -46,6 +48,7 @@ def write_domains_to_file(path: str, domains: set[str]) -> None:
         print(f"[OK] {path} に {len(domains):,} 件を書き出しました。")
     except OSError as e:
         print(f"[ERROR] {path}: {e}", file=sys.stderr)
+
 
 # ---------- メイン処理 ----------
 def main() -> None:
@@ -102,9 +105,30 @@ def main() -> None:
 
         union_new_domains |= new_domains  # 結合用に追加
 
+    # ── ここから有効性チェック ──
+    print(f"[INFO] 新規候補のドメイン数: {len(union_new_domains):,} 件。有効性をチェックします...", file=sys.stderr)
+    valid_domains: set[str] = set()
+    total = len(union_new_domains)
+    for idx, d in enumerate(sorted(union_new_domains), start=1):
+        domain = d.lstrip('|').rstrip('^')
+        print(f"[{idx}/{total}] {domain} → ", end='', file=sys.stderr)
+        try:
+            url = f"https://family.adguard-dns.com/resolve?name={domain}&type=A"
+            data = urllib.request.urlopen(url, timeout=10).read()
+            j = json.loads(data)
+            status = j.get('Status', -1)
+        except Exception as e:
+            print(f"ERROR ({e})", file=sys.stderr)
+            continue
+        if status == 0:
+            valid_domains.add(d)
+            print("OK", file=sys.stderr)
+        else:
+            print(f"Status={status}", file=sys.stderr)
+    union_new_domains = valid_domains
+
     # 結合ファイルを出力（ヘッダー付き）
     combined_out = os.path.join(args.output_dir, "all_filters.txt")
-    # ヘッダーコメントを生成
     now = datetime.datetime.utcnow().isoformat(timespec='milliseconds') + 'Z'
     header_lines = [
         f"! Title: Japan Youth Restricted Filter",
@@ -114,11 +138,9 @@ def main() -> None:
     ]
     try:
         with open(combined_out, 'w', encoding='utf-8') as f:
-            # コメントヘッダー
             for line in header_lines:
                 f.write(line + '\n')
-            f.write('\n')  # ドメインリスト前の空行
-            # ドメインリスト本体
+            f.write('\n')
             for d in sorted(union_new_domains):
                 f.write(d + '\n')
         print(f"[OK] {combined_out} に {len(union_new_domains):,} 件を書き出しました。")
