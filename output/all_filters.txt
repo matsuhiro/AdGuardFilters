@@ -1,7 +1,7 @@
 ! Title: Japan Youth Restricted Filter
 ! Description: It contains a blacklist of content considered inappropriate for young people in Japan; restricts inappropriate content on LINE and Yahoo searches.
 ! Homepage: https://github.com/matsuhiro/AdGuardFilters
-! Last modified: 2025-05-05T00:24:39.388Z
+! Last modified: 2025-05-05T00:36:07.818Z
 
 @@||manager.line-scdn.net^
 @@||obs.line-scdn.net^
@@ -85,10 +85,8 @@
 ||artemisbet10.com^
 ||aryan-nations.org^
 ||ashbusstop.org^
-||ashleymadison.com^
 ||ashspace.org^
 ||asianbeta.com^
-||asiandating.com^
 ||ask.fm^
 ||asmhentai.com^
 ||aso-bo.com^
@@ -97,7 +95,6 @@
 ||avgle.com^
 ||aypsite.org^
 ||babes.com^
-||badoo.com^
 ||bakusai.com^
 ||bananajackpot.com^
 ||bangbros.com^
@@ -117,12 +114,10 @@
 ||bet2earn.net^
 ||betadonis55.com^
 ||bhzejltg.info^
-||bikerplanet.com^
 ||bitchute.com^
 ||blacked.com^
 ||blackhatforum.com^
 ||blackhatworld.com^
-||blackpeoplemeet.com^
 ||blackplanet.com^
 ||bladeforums.com^
 ||bleaknation.com^
@@ -142,7 +137,6 @@
 ||brutalvideos.com^
 ||bruteforcelab.com^
 ||budsgunshop.com^
-||bumble.com^
 ||busyspr.com^
 ||butterfly-project.org^
 ||buy-oxycontin-online.com^
@@ -168,7 +162,6 @@
 ||catholicmatch.com^
 ||cazala.github.io^
 ||cdn-manga-stf-router-api.line-scdn.net^
-||cdn.cloudcoins.co^
 ||cdn1.pebx.pl^
 ||ch-news.line-apps.com^
 ||chasebankverify.com^
@@ -181,11 +174,9 @@
 ||cheeky-lovers.com^
 ||cheerupfriends.com^
 ||chem.eu^
-||chemistry.com^
 ||chemsrus.com^
 ||chimpout.com^
 ||chinalovecupid.com^
-||christianmingle.com^
 ||churchofeuthanasia.org^
 ||cinemafacil.com^
 ||citi-login.com^
@@ -197,7 +188,6 @@
 ||cmoa.jp^
 ||cocaine.org^
 ||cocaineanonymous.org^
-||coffeemeetsbagel.com^
 ||coinimp.com$third-party^
 ||coinimp.net$third-party^
 ||coldsteel.com^
@@ -208,8 +198,6 @@
 ||cracks.am^
 ||crackserials.to^
 ||crunchyroll.com^
-||crypto.csgocpu.com^
-||cupid.com^
 ||curiouscat.me^
 ||cuttercraze.com^
 ||cuttingedge.org^
@@ -225,7 +213,6 @@
 ||darknetlive.com^
 ||darkode.com^
 ||darkwebnews.com^
-||dateinasia.com^
 ||dcard.tw^
 ||ddos-attack.net^
 ||deadlydesires.org^
@@ -273,7 +260,6 @@
 ||echiechi-deai.com^
 ||ecstasydata.org^
 ||efukt.com^
-||eharmony.com^
 ||elitehackers.info^
 ||emotet.info^
 ||empflix.com^
@@ -292,7 +278,6 @@
 ||evilangel.com^
 ||evilzone.org^
 ||exhentai.org^
-||exploit.in^
 ||extremetube.com^
 ||facebook-login.net^
 ||facebook.com^
@@ -302,13 +287,11 @@
 ||fanbox.cc^
 ||fanfiction.net^
 ||fanza.jp^
-||farmersonly.com^
 ||fb.com^
 ||fearlessana.com^
 ||feeld.co^
 ||femjoy.com^
 ||fetlife.com^
-||filipinocupid.com^
 ||finalsolution88.com^
 ||firearmstalk.com^
 ||flickr.com^
@@ -336,8 +319,6 @@
 ||gettr.com^
 ||ghostgunner.net^
 ||girlschannel.net^
-||girlsdateforfree.com^
-||gleeden.com^
 ||globalsecurity.org^
 ||globalvpn.com^
 ||glock.com^
@@ -362,7 +343,6 @@
 ||habbo.com^
 ||hackforums.net^
 ||hanime.tv^
-||happn.com^
 ||happymail.co.jp^
 ||hashmuseum.com^
 ||hateforum.com^
@@ -381,8 +361,6 @@
 ||herominers.com^
 ||hideip.me^
 ||high-times.com^
-||hily.com^
-||hinge.co^
 ||hipforums.com^
 ||hitomi.la^
 ||honorary-aryan.com^
@@ -412,7 +390,6 @@
 ||janes.com^
 ||javapipe.com^
 ||javforme.co^
-||jdate.com^
 ||jeevansathi.com^
 ||joymii.com^
 ||kakao.com^
@@ -431,7 +408,6 @@
 ||komiflo.com^
 ||kygunco.com^
 ||latinomeetup.com^
-||lavalife.com^
 ||ldssingles.com^
 ||leafly.com^
 ||leakforums.net^
@@ -458,7 +434,6 @@
 ||loginverify.com^
 ||lostallhope.com^
 ||lostsoulforum.com^
-||loveandseek.com^
 ||luckygunner.com^
 ||lumenapp.com^
 ||m4carbine.net^
@@ -476,13 +451,11 @@
 ||marlinfirearms.com^
 ||martinetpress.com^
 ||mastodon.social^
-||match.com^
 ||matchdoctor.com^
 ||matchmakers.com^
 ||mdma.net^
 ||mechacomic.jp^
 ||medium.com^
-||meetic.com^
 ||meetup.com^
 ||mein-kampf.net^
 ||melonbooks.co.jp^
@@ -499,7 +472,6 @@
 ||militaryfactory.com^
 ||minds.com^
 ||minero-proxy-*.now.sh^
-||mingle2.com^
 ||mining.best^
 ||mixi.jp^
 ||mocospace.com^
@@ -511,7 +483,6 @@
 ||mushroomcompanion.com^
 ||muslima.com^
 ||mutuza.win^
-||muzmatch.com^
 ||my.domain^
 ||mycotopia.net^
 ||myfans.jp^
@@ -542,7 +513,6 @@
 ||nukistream.com^
 ||occidentaldissent.com^
 ||ok.ru^
-||okcupid.com^
 ||omegle.com^
 ||omiai-jp.com^
 ||oneangrygamer.net^
@@ -556,14 +526,12 @@
 ||opiumden.org^
 ||orbot.org^
 ||oscam.cc^
-||ourtime.com^
 ||overgrow.com^
 ||pairs.lv^
 ||palmettostatearmory.com^
 ||paltalk.com^
 ||papercutters.org^
 ||parler.com^
-||parship.com^
 ||patreon.com^
 ||patriots.win^
 ||paypal-account.com^
@@ -580,14 +548,11 @@
 ||pixiv.net^
 ||playboy.com^
 ||playboyplus.com^
-||plentyoffish.com^
 ||plurk.com^
-||pof.com^
 ||porn.com^
 ||pornhub.com^
 ||pornhubpremium.com^
 ||porntube.com^
-||positivesingles.com^
 ||ppsh41.com^
 ||prettythin.com^
 ||primaryarms.com^
@@ -650,11 +615,9 @@
 ||selfharm.uk^
 ||selfharmforum.com^
 ||selfmedicated.org^
-||seniorfriendfinder.com^
 ||sensiseeds.com^
 ||sentry-uit.line-apps.com^
 ||servicenow-support.com^
-||shaadi.com^
 ||shadow-socks.com^
 ||sharpweb.org^
 ||shemaleyum.com^
@@ -669,10 +632,8 @@
 ||simply-hentai.com^
 ||skinnydreams.com^
 ||skinnygossip.com^
-||skout.com^
 ||skype.com^
 ||slack.com^
-||sleeptimer.org^
 ||smith-wesson.com^
 ||smokablehemp.com^
 ||smoke-loader.com^
@@ -683,7 +644,6 @@
 ||somasell.com^
 ||soulmates.com^
 ||spankbang.com^
-||spark.com^
 ||spiceforums.com^
 ||sportsmansguide.com^
 ||springfield-armory.com^
@@ -708,7 +668,6 @@
 ||suicideproject.org^
 ||sukima.me^
 ||sun-mining.com^
-||sunnimiq.cf^
 ||sunporno.com^
 ||survivalistboards.com^
 ||swfa.com^
@@ -717,7 +676,6 @@
 ||swissborg.com^
 ||sword-buyers-guide.com^
 ||t.me^
-||tagged.com^
 ||tanu2ch.net^
 ||taurusarmed.net^
 ||taurususa.com^
@@ -726,7 +684,6 @@
 ||teenhelp.org^
 ||telegram.me^
 ||telegram.org^
-||thaicupid.com^
 ||thefiringline.com^
 ||thehighroad.org^
 ||thelastforum.net^
@@ -744,7 +701,6 @@
 ||thothub.to^
 ||tightrope.cc^
 ||tiktok.com^
-||tinder.com^
 ||tinychat.com^
 ||tnaflix.com^
 ||tokecity.com^
@@ -795,7 +751,6 @@
 ||weapon-blog.com^
 ||weaponevolution.com^
 ||wearebroken.org^
-||weareher.com^
 ||wechat.com^
 ||weedmaps.com^
 ||weibo.com^

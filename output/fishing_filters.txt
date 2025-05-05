@@ -22,7 +22,6 @@
 ||elitehackers.info^
 ||emotet.info^
 ||evilzone.org^
-||exploit.in^
 ||facebook-login.net^
 ||g00gle.com^
 ||g2a.com^
