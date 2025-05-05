@@ -1,7 +1,7 @@
 ! Title: Japan Youth Restricted Filter
 ! Description: It contains a blacklist of content considered inappropriate for young people in Japan; restricts inappropriate content on LINE and Yahoo searches.
 ! Homepage: https://github.com/matsuhiro/AdGuardFilters
-! Last modified: 2025-05-03T06:27:27.076Z
+! Last modified: 2025-05-05T00:24:39.388Z
 
 @@||manager.line-scdn.net^
 @@||obs.line-scdn.net^
@@ -13,22 +13,29 @@
 ||1337bid.com^
 ||13dl.net^
 ||16chan.xyz^
+||185.165.169.108^
 ||1911forum.com^
 ||1canadianpharmacy.com^
 ||1pondo.tv^
+||23.83.114.131^
 ||2chan.net^
+||35.194.26.233^
+||35.239.57.233^
 ||3dhentaivideo.com^
 ||420blazeit.org^
 ||420chan.org^
 ||420girls.com^
 ||420magazine.com^
 ||420network.com^
+||45.15.156.210^
+||45.32.105.134^
 ||4chan.org^
 ||4channel.org^
 ||4tube.com^
 ||50reasons.org^
 ||550909.com^
 ||5ch.net^
+||77.162.125.199^
 ||777bets.co.uk^
 ||7chan.org^
 ||7epta7.com^
@@ -101,6 +108,7 @@
 ||bdsm.com^
 ||beatthebook.eu^
 ||beeg.com^
+||belicimo.pw^
 ||belmont.ag^
 ||beretta.com^
 ||bestgore.com^
@@ -108,6 +116,7 @@
 ||bet11888.com^
 ||bet2earn.net^
 ||betadonis55.com^
+||bhzejltg.info^
 ||bikerplanet.com^
 ||bitchute.com^
 ||blacked.com^
@@ -143,6 +152,7 @@
 ||cafemom.com^
 ||calguns.net^
 ||cam4.com^
+||camillesanz.com^
 ||camwhores.tv^
 ||camwhoresbay.com^
 ||canadadrugs.com^
@@ -156,7 +166,10 @@
 ||caramelkissa.com^
 ||carder.uk^
 ||catholicmatch.com^
+||cazala.github.io^
 ||cdn-manga-stf-router-api.line-scdn.net^
+||cdn.cloudcoins.co^
+||cdn1.pebx.pl^
 ||ch-news.line-apps.com^
 ||chasebankverify.com^
 ||chat-avenue.com^
@@ -174,6 +187,7 @@
 ||chinalovecupid.com^
 ||christianmingle.com^
 ||churchofeuthanasia.org^
+||cinemafacil.com^
 ||citi-login.com^
 ||classicfirearms.com^
 ||clover.co^
@@ -184,6 +198,8 @@
 ||cocaine.org^
 ||cocaineanonymous.org^
 ||coffeemeetsbagel.com^
+||coinimp.com$third-party^
+||coinimp.net$third-party^
 ||coldsteel.com^
 ||colt.com^
 ||comic.k-manga.jp^
@@ -192,6 +208,7 @@
 ||cracks.am^
 ||crackserials.to^
 ||crunchyroll.com^
+||crypto.csgocpu.com^
 ||cupid.com^
 ||curiouscat.me^
 ||cuttercraze.com^
@@ -215,6 +232,7 @@
 ||deathaddict.co^
 ||defcad.com^
 ||defensereview.com^
+||dekoder.ws^
 ||depressionforums.org^
 ||despairfaction.club^
 ||deviantart.com^
@@ -265,7 +283,9 @@
 ||erome.com^
 ||eroterest.net^
 ||erowid.org^
+||eruuludam.mn^
 ||establishedmen.com^
+||etacontent.com^
 ||eurooptic.com^
 ||everydaynodaysoff.com^
 ||evike.com^
@@ -292,8 +312,11 @@
 ||finalsolution88.com^
 ||firearmstalk.com^
 ||flickr.com^
+||flightsy.win^
+||flightzy.date^
 ||fnherstal.com^
 ||fortheloveofana.com^
+||freecontent.live^
 ||freeproxy.com^
 ||freeproxylists.net^
 ||freeproxyserver.net^
@@ -320,6 +343,7 @@
 ||glock.com^
 ||glocktalk.com^
 ||gmailverify.com^
+||go.megabanners.cf^
 ||goddessana.com^
 ||goregrish.com^
 ||grabagun.com^
@@ -354,6 +378,7 @@
 ||heretical.com^
 ||heroin.org^
 ||heroinhelper.com^
+||herominers.com^
 ||hideip.me^
 ||high-times.com^
 ||hily.com^
@@ -366,6 +391,7 @@
 ||houseofgraphite.com^
 ||hustler.com^
 ||hyperreal.org^
+||icerockmining.io^
 ||icmag.com^
 ||ihookup.com^
 ||impactguns.com^
@@ -396,6 +422,7 @@
 ||keygen.nl^
 ||khatresearch.org^
 ||kink.com^
+||kinokongo.cc^
 ||kiwifarms.net^
 ||kkk.com^
 ||knife-depot.com^
@@ -471,7 +498,9 @@
 ||military.com^
 ||militaryfactory.com^
 ||minds.com^
+||minero-proxy-*.now.sh^
 ||mingle2.com^
+||mining.best^
 ||mixi.jp^
 ||mocospace.com^
 ||modeldieting.com^
@@ -481,7 +510,9 @@
 ||motherless.com^
 ||mushroomcompanion.com^
 ||muslima.com^
+||mutuza.win^
 ||muzmatch.com^
+||my.domain^
 ||mycotopia.net^
 ||myfans.jp^
 ||myfreecams.com^
@@ -496,12 +527,15 @@
 ||nationalvanguard.org^
 ||naughtyamerica.com^
 ||neinchan.org^
+||netflare.info^
 ||netshade.net^
 ||newgrounds.com^
 ||newnation.org^
 ||news.line-apps.com^
 ||nicovideo.jp^
 ||niggermania.com^
+||nimiq.surf^
+||nimiqchina.com^
 ||notionsoflife.com^
 ||nra.org^
 ||nshn.co.uk^
@@ -573,6 +607,7 @@
 ||psychonautwiki.org^
 ||pururin.to^
 ||putalocura.com^
+||pzoifaum.info^
 ||qq.com^
 ||quora.com^
 ||r18.com^
@@ -624,6 +659,7 @@
 ||sharpweb.org^
 ||shemaleyum.com^
 ||shotgunworld.com^
+||shrink-service.it^
 ||shroomery.org^
 ||sigsauer.com^
 ||sihp.org^
@@ -636,6 +672,7 @@
 ||skout.com^
 ||skype.com^
 ||slack.com^
+||sleeptimer.org^
 ||smith-wesson.com^
 ||smokablehemp.com^
 ||smoke-loader.com^
@@ -653,6 +690,7 @@
 ||square-api.line.me^
 ||sslh.org^
 ||starvingsecrets.com^
+||staticset.com^
 ||steamcommunity.com^
 ||stormfront.org^
 ||studivz.net^
@@ -669,11 +707,14 @@
 ||suicidemethods.net^
 ||suicideproject.org^
 ||sukima.me^
+||sun-mining.com^
+||sunnimiq.cf^
 ||sunporno.com^
 ||survivalistboards.com^
 ||swfa.com^
 ||swingersdateclub.com^
 ||swinglifestyle.com^
+||swissborg.com^
 ||sword-buyers-guide.com^
 ||t.me^
 ||tagged.com^
@@ -713,6 +754,7 @@
 ||torbrowser.com^
 ||torguard.com^
 ||totse.com^
+||traffic.tc-clicks.com^
 ||transangels.com^
 ||treatingyourself.com^
 ||tripadvisor.com^
@@ -731,6 +773,7 @@
 ||updatebilling.com^
 ||upornia.com^
 ||ups-claim.com^
+||uptostream.*^
 ||usacarry.com^
 ||usmessageboard.com^
 ||uts-front.line-apps.com^
@@ -744,6 +787,7 @@
 ||voat.co^
 ||vortexoptics.com^
 ||vtunnel.com^
+||wallpoper.com^
 ||waltherforums.com^
 ||wannacryvirus.com^
 ||warez.ag^
