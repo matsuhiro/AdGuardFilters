@@ -57,8 +57,8 @@
 ||coinblind.com^
 ||coinerra.com^
 ||coinhive.com^
-||coinimp.com$third-party^
-||coinimp.net$third-party^
+||coinimp.com^
+||coinimp.net^
 ||coinnebula.com^
 ||coinpirate.cf^
 ||coinpot.co^

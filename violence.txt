@@ -1,8 +1,4 @@
-||4chan.org^
-||8kun.top^
-||8chan.moe^
 ||7chan.org^
-||420chan.org^
 ||neinchan.org^
 ||dailystormer.su^
 ||stormfront.org^
@@ -16,13 +12,9 @@
 ||patriots.win^
 ||encyclopediadramatica.online^
 ||liveleak.com^
-||bestgore.com^
 ||goregrish.com^
 ||documentingreality.com^
-||theync.com^
-||heavy-r.com^
 ||efukt.com^
-||kaotic.com^
 ||hoodsite.com^
 ||deathaddict.co^
 ||rotten.com^

@@ -18,7 +18,6 @@
 ||icmag.com^
 ||zamnesia.com^
 ||weedmaps.com^
-||hipforums.com^
 ||dutch-passion.nl^
 ||barneysfarm.com^
 ||herbiesheadshop.com^
@@ -36,9 +35,7 @@
 ||clubdrugclinic.com^
 ||ecstasydata.org^
 ||drugs-plaza.com^
-||420chan.org^
 ||opiodforum.com^
-||totse.com^
 ||thevaults.org^
 ||chemsrus.com^
 ||legalhighreviews.com^
@@ -69,7 +66,6 @@
 ||tokecity.com^
 ||cannabisculture.com^
 ||drugsinc.eu^
-||420girls.com^
 ||cannabishub.com^
 ||psychedelicfrontier.com^
 ||treatingyourself.com^

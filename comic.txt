@@ -1,4 +1,3 @@
-||dlsite.com^
 ||dmm.co.jp^
 ||ec.toranoana.jp^
 ||melonbooks.co.jp^
@@ -19,8 +18,6 @@
 ||booklive.jp^
 ||mechacomic.jp^
 ||nhentai.net^
-||fakku.net^
-||asmhentai.com^
 ||e-hentai.org^
 ||hitomi.la^
 ||doujin-free.com^

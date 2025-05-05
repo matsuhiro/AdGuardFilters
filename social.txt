@@ -12,7 +12,6 @@
 ||whatsapp.com^
 ||messenger.com^
 ||wechat.com^
-||qq.com^
 ||vk.com^
 ||ok.ru^
 ||renren.com^
@@ -41,8 +40,6 @@
 ||wattpad.com^
 ||yelp.com^
 ||tripadvisor.com^
-||tinychat.com^
-||chat-avenue.com^
 ||gaiaonline.com^
 ||newgrounds.com^
 ||pixiv.net^
@@ -50,7 +47,6 @@
 ||5ch.net^
 ||2chan.net^
 ||zerochan.net^
-||4channel.org^
 ||dailymotion.com^
 ||vimeo.com^
 ||paltalk.com^
@@ -59,7 +55,6 @@
 ||dreamwidth.org^
 ||medium.com^
 ||mastodon.social^
-||furaffinity.net^
 ||inkbunny.net^
 ||sofurry.com^
 ||crunchyroll.com^
@@ -80,7 +75,6 @@
 ||teams.microsoft.com^
 ||steamcommunity.com^
 ||roblox.com^
-||imvu.com^
 ||secondlife.com^
 ||clubpenguin.com^
 ||habbo.com^
