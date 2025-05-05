@@ -2,7 +2,14 @@
 
 ## Overview
 
-This repository provides a set of scripts to download domain lists from multiple public BlockLists, compare them against target lists, and extract only the newly appearing domains.
+This repository provides a set of scripts to:
+
+- Generate block lists for AdGuard DNS.
+- Curate domain lists considered harmful to children in Japanese-speaking regions.
+- Create separate files for each category and merge them into a single consolidated list.
+- Extract and list only those domains not already included in the public block lists published via `filters.json`.
+
+The scripts download source block lists, compare them against target files, and extract newly appearing domains for use in AdGuard DNS.
 
 ## Requirements
 
