@@ -35,8 +35,28 @@
     if (!fileInput.files.length) {
       return alert('ドメインリストファイルを選択してください');
     }
-    const text = await fileInput.files[0].text();
-    // @@ルールはスキップ
+
+    // ファイル読み込み
+    let text;
+    try {
+      // モダンAPIを使用
+      text = await fileInput.files[0].text();
+    } catch (err) {
+      // Fallback: FileReaderを使用
+      try {
+        text = await new Promise((resolve, reject) => {
+          const reader = new FileReader();
+          reader.onload = () => resolve(reader.result);
+          reader.onerror = () => reject(reader.error);
+          reader.readAsText(fileInput.files[0], 'UTF-8');
+        });
+      } catch (e) {
+        console.error('ファイル読み込み中にエラー:', e);
+        return alert('ファイルを読み込めませんでした。再度選択してください。');
+      }
+    }
+
+    // @@ ルールはスキップ
     const lines = text.split(/\r?\n/)
       .map(l => l.trim())
       .filter(l => l && !/^!/.test(l) && !/^@@/.test(l) && /\./.test(l));
@@ -47,7 +67,6 @@
       const form  = document.querySelector('form.pHXXeK1ebvpFENlxacJk');
       const input = form.querySelector('input[type=text]');
 
-      // ドメインを入力して送信
       input.value = domain;
       input.dispatchEvent(new Event('input', { bubbles: true }));
       form.querySelector('button').click();
