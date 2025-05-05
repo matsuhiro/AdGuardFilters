@@ -51,11 +51,8 @@ chmod +x make_all_filter.sh BlockLists/download_all.sh
 - Reads all existing domain lists in `BlockLists/downloads/`.
 - Compares them against one or more target files provided as arguments.
 - Writes non-duplicate domains for each target to `output/<target>_filters.txt`.
-- Aggregates all new domains into `output/all_filters.txt`, prefixed by a header comment with metadata.
-
-```bash
-python3 filter_domains.py annonymous.txt casino.txt drag.txt line.txt porn.txt suside.txt violence.txt bbs.txt comic.txt fishing.txt matching.txt social.txt wepon.txt yahoojp.txt rakuten.txt coin.txt
-```
+- Checks the validity of each new domain candidate by querying the AdGuard DNS family resolver API (`https://family.adguard-dns.com/resolve?name=<domain>&type=A`). Only domains with `Status=0` are retained.
+- Aggregates all valid new domains into `output/all_filters.txt`, prefixed by a header comment with metadata.
 
 ## Output Files
 
