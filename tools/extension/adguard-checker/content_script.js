@@ -1,4 +1,4 @@
-(async function(){
+(async function() {
   // --- 1) UI 挿入 ---
   const panel = document.createElement('div');
   panel.id = 'domain-check-panel';
@@ -31,33 +31,34 @@
   const copyBtn   = panel.querySelector('#copy-btn');
 
   // --- 3) ドメインチェック本体 ---
-  startBtn.addEventListener('click', async ()=>{
+  startBtn.addEventListener('click', async () => {
     if (!fileInput.files.length) {
       return alert('ドメインリストファイルを選択してください');
     }
     const text = await fileInput.files[0].text();
-    // @@ ルールはスキップ
-    const lines = text.split(/\r?\n/).map(l=>l.trim())
-      .filter(l=>l && !/^!/.test(l) && !/^@@/.test(l) && /\./.test(l));
+    // @@ルールはスキップ
+    const lines = text.split(/\r?\n/)
+      .map(l => l.trim())
+      .filter(l => l && !/^!/.test(l) && !/^@@/.test(l) && /\./.test(l));
 
     const notBlocked = [];
-    for (let raw of lines) {
-      // AdGuard フォーマットから生ドメインへ正規化
+    for (const raw of lines) {
       const domain = raw.replace(/^\|\|?/, '').replace(/\^.*$/, '');
       const form  = document.querySelector('form.pHXXeK1ebvpFENlxacJk');
       const input = form.querySelector('input[type=text]');
 
+      // ドメインを入力して送信
       input.value = domain;
       input.dispatchEvent(new Event('input', { bubbles: true }));
       form.querySelector('button').click();
 
-      // --- 結果監視 (正常 or エラー) ---
+      // --- 結果監視 ---
       await new Promise(res => {
         const obs = new MutationObserver(() => {
-          if (
-            document.querySelector('.Nric9fWIgpVPG57wp_cn') ||
-            document.querySelector('.OT87bMPy2pwKNdqcaq_f')
-          ) {
+          const respDiv = document.querySelector('.Nric9fWIgpVPG57wp_cn');
+          const errorDiv = Array.from(document.querySelectorAll('div'))
+            .find(el => el.textContent.includes('ドメイン名が無効です'));
+          if (respDiv || errorDiv) {
             obs.disconnect();
             res();
           }
@@ -65,14 +66,15 @@
         obs.observe(document.body, { childList: true, subtree: true });
       });
 
-      // エラー要素と正常応答要素の取得
-      const errorElem = document.querySelector('.OT87bMPy2pwKNdqcaq_f');
+      // 結果取得
+      const errorElem = Array.from(document.querySelectorAll('div'))
+        .find(el => el.textContent.includes('ドメイン名が無効です'));
       const respElem  = document.querySelector(
         '.Nric9fWIgpVPG57wp_cn .sWBvK7f_eF6lgj84X8Da > div'
       );
       const respText  = respElem ? respElem.textContent : '';
 
-      // エラー時も notBlocked に追加、それ以外はブロック判定
+      // "ドメイン名が無効です" も notBlocked として扱う
       if (errorElem) {
         notBlocked.push(raw);
       } else if (!respText.includes('ペアレンタルコントロール')) {
@@ -80,15 +82,15 @@
       }
 
       // サーバ負荷軽減のため待機
-      await new Promise(r=>setTimeout(r, 200));
+      await new Promise(r => setTimeout(r, 200));
     }
     outputTA.value = notBlocked.join('\n');
   });
 
   // --- 4) コピー機能 ---
-  copyBtn.addEventListener('click', ()=>{
+  copyBtn.addEventListener('click', () => {
     navigator.clipboard.writeText(outputTA.value)
-      .then(()=> alert('クリップボードにコピーしました'))
-      .catch(()=> alert('コピーに失敗しました'));
+      .then(() => alert('クリップボードにコピーしました'))
+      .catch(() => alert('コピーに失敗しました'));
   });
 })();
