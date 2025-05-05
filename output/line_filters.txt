@@ -1,7 +1,3 @@
-@@||manager.line-scdn.net^
-@@||obs.line-scdn.net^
-@@||pagepoker.line-scdn.net^
-@@||stickershop.line-scdn.net^
 ||ch-news.line-apps.com^
 ||gw.line.naver.jp^
 ||line-scdn.net^
