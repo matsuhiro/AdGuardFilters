@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "AdGuard Parental Control Checker",
+    "version": "1.0",
+    "description": "ファイル内ドメインを一括チェックし、ブロックされないドメインを抽出",
+    "permissions": [
+      "activeTab",
+      "scripting"
+    ],
+    "host_permissions": [
+      "https://adguard-dns.io/*/dashboard/settings/*/userrules"
+    ],
+    "content_scripts": [
+      {
+        "matches": [
+          "https://adguard-dns.io/*/dashboard/settings/*/userrules"
+        ],
+        "js": [
+          "content_script.js"
+        ]
+      }
+    ]
+  }
