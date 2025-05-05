@@ -11,8 +11,6 @@
 ||cazala.github.io^
 ||cdn1.pebx.pl^
 ||cinemafacil.com^
-||coinimp.com$third-party^
-||coinimp.net$third-party^
 ||dekoder.ws^
 ||eruuludam.mn^
 ||etacontent.com^

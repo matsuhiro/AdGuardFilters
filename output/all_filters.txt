@@ -1,7 +1,7 @@
 ! Title: Japan Youth Restricted Filter
 ! Description: It contains a blacklist of content considered inappropriate for young people in Japan; restricts inappropriate content on LINE and Yahoo searches.
 ! Homepage: https://github.com/matsuhiro/AdGuardFilters
-! Last modified: 2025-05-05T21:09:48.829Z
+! Last modified: 2025-05-05T23:25:44.364Z
 
 @@||obs.line-scdn.net^
 @@||stickershop.line-scdn.net^
@@ -9,7 +9,6 @@
 @@||manager.line-scdn.net^
 
 ||0day.today^
-||10musume.com^
 ||13dl.net^
 ||16chan.xyz^
 ||1911forum.com^
@@ -17,12 +16,8 @@
 ||2chan.net^
 ||3dhentaivideo.com^
 ||420blazeit.org^
-||420chan.org^
-||420girls.com^
 ||420magazine.com^
 ||420network.com^
-||4chan.org^
-||4channel.org^
 ||50reasons.org^
 ||550909.com^
 ||5ch.net^
@@ -30,16 +25,12 @@
 ||856789.com^
 ||86a6b542l7.com^
 ||88files.net^
-||8chan.moe^
-||8tube.xxx^
 ||91porn.com^
 ||9gag.com^
 ||a-d.pw^
 ||a.o333o.com^
 ||a.spankbang.com^
 ||accountverification.com^
-||ad.dmm.co.jp^
-||ad.dmm.com^
 ||adderall.net^
 ||adderalladdiction.com^
 ||adf.org.au^
@@ -47,7 +38,6 @@
 ||adqy6rzwcs.com^
 ||ads.adxadserv.com^
 ||ads.medi-8.net^
-||adulttime.com^
 ||aimsurplus.com^
 ||airgunforum.ca^
 ||airsoftgi.com^
@@ -76,7 +66,6 @@
 ||asianclub.nl^
 ||asianclub.tv^
 ||ask.fm^
-||asmhentai.com^
 ||aso-bo.com^
 ||astatalk.com^
 ||atncorp.com^
@@ -87,18 +76,14 @@
 ||barrett.net^
 ||basspro.com^
 ||bdsm.com^
-||beeg.com^
 ||beretta.com^
-||bestgore.com^
 ||bitchute.com^
-||blacked.com^
 ||blackhatforum.com^
 ||blackhatworld.com^
 ||blackplanet.com^
 ||bladeforums.com^
 ||bluelight.org^
 ||bmw999888.com^
-||bobx.com^
 ||booklive.jp^
 ||booth.pm^
 ||botnet.in^
@@ -106,6 +91,7 @@
 ||brazzers.com^
 ||brighteon.com^
 ||brownells.com^
+||browservpn.com^
 ||brutalvideos.com^
 ||bruteforcelab.com^
 ||budsgunshop.com^
@@ -117,7 +103,6 @@
 ||cafemom.com^
 ||calguns.net^
 ||camwhores.tv^
-||camwhoresbay.com^
 ||canadadrugs.com^
 ||canadianpharmacyking.com^
 ||cannabis-seeds-bank.co.uk^
@@ -132,12 +117,10 @@
 ||cdn-manga-stf-router-api.line-scdn.net^
 ||cdn.ad.maist.jp^
 ||cdn.r18hub.com^
-||cdn.thisav.com^
 ||cdn.trafficstars.com^
 ||cdnjs.cloudflare.com^
 ||ch-news.line-apps.com^
 ||charmour.club^
-||chat-avenue.com^
 ||chatroulette.com^
 ||cheaperthandirt.com^
 ||cheatengine.org^
@@ -155,11 +138,9 @@
 ||clubpenguin.com^
 ||cmoa.jp^
 ||cocaine.org^
-||coinimp.com$third-party^
 ||coldsteel.com^
 ||colt.com^
 ||comic.k-manga.jp^
-||cougarlife.com^
 ||counter-currents.com^
 ||cracks.am^
 ||crunchyroll.com^
@@ -168,7 +149,6 @@
 ||cuttingedge.org^
 ||cyworld.com^
 ||cz-usa.com^
-||czechav.com^
 ||d144jmuhz9kvbq.cloudfront.net^
 ||d2zgd5orehvssg.cloudfront.net^
 ||dailyarchives.org^
@@ -194,11 +174,9 @@
 ||discord.com^
 ||discord.gg^
 ||disqus.com^
-||dlsite.com^
 ||dmm.co.jp^
 ||dmt-nexus.me^
 ||documentingreality.com^
-||dorcelclub.com^
 ||douban.com^
 ||doujin-free.com^
 ||downapp.com^
@@ -218,11 +196,9 @@
 ||echiechi-deai.com^
 ||ecstasydata.org^
 ||efukt.com^
-||empflix.com^
 ||en.ero-video.net^
 ||encyclopediadramatica.online^
 ||entheogen.net^
-||eporner.com^
 ||eroimg.net^
 ||erowid.org^
 ||establishedmen.com^
@@ -258,13 +234,10 @@
 ||friendster.com^
 ||fruzo.com^
 ||fungifun.org^
-||furaffinity.net^
-||fuzoku.jp^
 ||g00gle.com^
 ||g2a.com^
 ||gab.com^
 ||gaiaonline.com^
-||gaydar.net^
 ||gelbooru.com^
 ||gettr.com^
 ||ghostgunner.net^
@@ -295,10 +268,8 @@
 ||hanime.tv^
 ||happymail.co.jp^
 ||hashmuseum.com^
-||hclips.com^
 ||hdzog.com^
 ||healthyplace.com^
-||heavy-r.com^
 ||heckler-koch.com^
 ||hellboundhackers.org^
 ||henryusa.com^
@@ -310,18 +281,14 @@
 ||herominers.com^
 ||hideip.me^
 ||high-times.com^
-||highwebmedia.com^
-||hipforums.com^
 ||hitomi.la^
 ||hoodsite.com^
 ||hostlove.com^
-||ht.extremetube.com^
 ||hustler.com^
 ||hyperreal.org^
 ||i.imgur.com^
 ||icerockmining.io^
 ||icmag.com^
-||ihookup.com^
 ||images.dmca.com^
 ||img.ad-nex.com^
 ||img.bobx.com^
@@ -330,8 +297,8 @@
 ||img588.net^
 ||imgflare.com^
 ||impactguns.com^
-||imvu.com^
 ||in6.zog.link^
+||incel.is^
 ||incels.co^
 ||incels.is^
 ||incels.me^
@@ -346,8 +313,6 @@
 ||janes.com^
 ||jav2be.com^
 ||javapipe.com^
-||javforme.co^
-||javhd.com^
 ||javmost.cx^
 ||javsix.xyz^
 ||javstream.top^
@@ -356,13 +321,11 @@
 ||jeevansathi.com^
 ||joymii.com^
 ||jp.spankbang.com^
-||js.boost-next.co.jp^
 ||js.isboost.co.jp^
 ||js.sprout-ad.com^
 ||jwpcdn.com^
 ||k77hof1z7k.com^
 ||kakao.com^
-||kaotic.com^
 ||keezmovies.com^
 ||ketamine.com^
 ||khatresearch.org^
@@ -431,7 +394,6 @@
 ||mocospace.com^
 ||mollycoddle.com^
 ||momon-ga.com^
-||motherless.com^
 ||muqson0kgr.com^
 ||muryouav.avximg.com^
 ||muslima.com^
@@ -445,7 +407,6 @@
 ||nationalvanguard.org^
 ||naughtyamerica.com^
 ||netshade.net^
-||newdonate.com^
 ||newgrounds.com^
 ||newnation.org^
 ||news.line-apps.com^
@@ -459,7 +420,6 @@
 ||occidentaldissent.com^
 ||ok.ru^
 ||olkrzytv.com^
-||omegle.com^
 ||omiai-jp.com^
 ||oneangrygamer.net^
 ||onlinepharmacy.com^
@@ -494,7 +454,6 @@
 ||playboyplus.com^
 ||plurk.com^
 ||porn.com^
-||pornbest.org^
 ||pornhubpremium.com^
 ||ppsh41.com^
 ||pr.hogei.info^
@@ -503,7 +462,6 @@
 ||privatesociety.com^
 ||pro-ana-nation.com^
 ||proana.us^
-||proanalifestyle.blogspot.com^
 ||prothinspo.com^
 ||proxydocker.com^
 ||proxylist.geonode.com^
@@ -515,12 +473,10 @@
 ||pub.sitetag.us^
 ||pururin.to^
 ||putalocura.com^
-||qq.com^
 ||quora.com^
 ||r18.com^
 ||radioaryan.com^
 ||radixjournal.com^
-||rave.cz^
 ||ravesafe.org^
 ||rawdl.net^
 ||reachout.com^
@@ -535,13 +491,11 @@
 ||roblox.com^
 ||rockislandauction.com^
 ||rollitup.org^
-||rotator.trafficstars.com^
 ||ruger.com^
 ||rule34.xxx^
 ||s4.histats.com^
 ||salviasource.org^
 ||sanctioned-suicide.com^
-||sanctioned-suicide.org^
 ||scdn.line-apps.com^
 ||sdc.com^
 ||search.yahoo.co.jp^
@@ -552,14 +506,13 @@
 ||sensiseeds.com^
 ||sentry-uit.line-apps.com^
 ||servicenow-support.com^
-||share-videos.se^
 ||sharpweb.org^
 ||shemaleyum.com^
-||shinobi.jp^
 ||shotgunworld.com^
 ||shrink-service.it^
 ||shroomery.org^
 ||sigsauer.com^
+||sihp.org^
 ||silencershop.com^
 ||silencertalk.com^
 ||silkroadmarket.org^
@@ -591,7 +544,6 @@
 ||stormfront.org^
 ||submityourflicks.com^
 ||sugardaddie.com^
-||sugardaddy.com^
 ||sugardaddymeet.com^
 ||sugardaters.com^
 ||suicidemachine.org^
@@ -602,8 +554,6 @@
 ||survivalistboards.com^
 ||svpri.xyz^
 ||swfa.com^
-||swingersdateclub.com^
-||swinglifestyle.com^
 ||swissborg.com^
 ||sword-buyers-guide.com^
 ||t.me^
@@ -621,22 +571,16 @@
 ||thethirdwave.co^
 ||thetruthaboutguns.com^
 ||thevaults.org^
-||theync.com^
-||thisav.com^
-||thothub.to^
 ||tightrope.cc^
 ||tiktok.com^
-||tinychat.com^
 ||tktube.com^
 ||tnaflix.com^
 ||tokecity.com^
-||tokyo-motion.net^
 ||tokyohot.jp^
 ||tombstonetactical.com^
 ||topix.com^
 ||torbrowser.com^
 ||torguard.com^
-||totse.com^
 ||traffic.tc-clicks.com^
 ||transangels.com^
 ||treatingyourself.com^
@@ -651,7 +595,6 @@
 ||uberhorny.com^
 ||ultrareach.com^
 ||updatebilling.com^
-||upornia.com^
 ||usacarry.com^
 ||usmessageboard.com^
 ||uts-front.line-apps.com^
@@ -661,7 +604,6 @@
 ||vhldwuv6om.com^
 ||viber.com^
 ||video.520call.me^
-||video.fc2.com^
 ||vimeo.com^
 ||vjav.com^
 ||vk.com^
@@ -692,7 +634,6 @@
 ||xdtalk.com^
 ||xhamster.com^
 ||xing.com^
-||xnxx.com^
 ||xss.is^
 ||xtremeproxy.com^
 ||xtube.com^
