@@ -19,6 +19,7 @@
 ||freecontent.live^
 ||go.megabanners.cf^
 ||herominers.com^
+||hostingcloud.party^
 ||icerockmining.io^
 ||kinokongo.cc^
 ||minero-proxy-*.now.sh^

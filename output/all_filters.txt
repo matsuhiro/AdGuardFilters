@@ -1,7 +1,7 @@
 ! Title: Japan Youth Restricted Filter
 ! Description: It contains a blacklist of content considered inappropriate for young people in Japan; restricts inappropriate content on LINE and Yahoo searches.
 ! Homepage: https://github.com/matsuhiro/AdGuardFilters
-! Last modified: 2025-05-05T23:25:44.364Z
+! Last modified: 2025-05-07T01:22:55.574Z
 
 @@||obs.line-scdn.net^
 @@||stickershop.line-scdn.net^
@@ -11,6 +11,8 @@
 ||0day.today^
 ||13dl.net^
 ||16chan.xyz^
+||18comic.org^
+||18comic.vip^
 ||1911forum.com^
 ||1canadianpharmacy.com^
 ||2chan.net^
@@ -25,6 +27,7 @@
 ||856789.com^
 ||86a6b542l7.com^
 ||88files.net^
+||8muses.xxx^
 ||91porn.com^
 ||9gag.com^
 ||a-d.pw^
@@ -46,6 +49,7 @@
 ||allsafevpn.com^
 ||alphaporno.com^
 ||ameba.jp^
+||ameblo.jp^
 ||americanfreepress.net^
 ||ammoman.com^
 ||ammoseek.com^
@@ -82,6 +86,7 @@
 ||blackhatworld.com^
 ||blackplanet.com^
 ||bladeforums.com^
+||blockaway.com^
 ||bluelight.org^
 ||bmw999888.com^
 ||booklive.jp^
@@ -97,6 +102,7 @@
 ||budsgunshop.com^
 ||busyspr.com^
 ||buy-xanax-online.com^
+||buymolly.com^
 ||bzcdn.fin.ovh^
 ||ca.clcknads.pro^
 ||cabelas.com^
@@ -139,7 +145,6 @@
 ||cmoa.jp^
 ||cocaine.org^
 ||coldsteel.com^
-||colt.com^
 ||comic.k-manga.jp^
 ||counter-currents.com^
 ||cracks.am^
@@ -151,12 +156,12 @@
 ||cz-usa.com^
 ||d144jmuhz9kvbq.cloudfront.net^
 ||d2zgd5orehvssg.cloudfront.net^
+||d3al52d8cojds7.cloudfront.net^
 ||dailyarchives.org^
 ||dailymotion.com^
 ||dailystormer.su^
 ||danbooru.donmai.us^
 ||dancesafe.org^
-||darknessvisible.com^
 ||darknetlive.com^
 ||darkwebnews.com^
 ||dcard.tw^
@@ -179,6 +184,7 @@
 ||documentingreality.com^
 ||douban.com^
 ||doujin-free.com^
+||doujindesu.com^
 ||downapp.com^
 ||drugbuyers.com^
 ||druglibrary.org^
@@ -212,6 +218,7 @@
 ||fakku.net^
 ||fanbox.cc^
 ||fanfiction.net^
+||fantia.jp^
 ||fanza.jp^
 ||fb.com^
 ||fd7qz88ckd.com^
@@ -233,6 +240,7 @@
 ||frefla.com^
 ||friendster.com^
 ||fruzo.com^
+||fujinkoron.jp^
 ||fungifun.org^
 ||g00gle.com^
 ||g2a.com^
@@ -251,6 +259,7 @@
 ||goddessana.com^
 ||goregrish.com^
 ||grabagun.com^
+||grapee.jp^
 ||grasscity.com^
 ||grindr.com^
 ||gunauction.com^
@@ -274,6 +283,7 @@
 ||hellboundhackers.org^
 ||henryusa.com^
 ||hentai-foundry.com^
+||hentai2read.xyz^
 ||herbiesheadshop.com^
 ||heretical.com^
 ||heroin.org^
@@ -283,6 +293,7 @@
 ||high-times.com^
 ||hitomi.la^
 ||hoodsite.com^
+||hostingcloud.party^
 ||hostlove.com^
 ||hustler.com^
 ||hyperreal.org^
@@ -359,10 +370,13 @@
 ||machinegunboards.com^
 ||magic-mushrooms-shop.com^
 ||malwaredomainlist.com^
+||mamastar.jp^
 ||mamba.ru^
 ||manga-channel-web-api.line-apps.com^
 ||manga-channel.line.me^
 ||manga.line.me^
+||mangaporno.com^
+||manhwa18.cc^
 ||manyvids.com^
 ||marijuanapassion.com^
 ||marlinfirearms.com^
@@ -453,6 +467,7 @@
 ||pixiv.net^
 ||playboyplus.com^
 ||plurk.com^
+||porn-comics.xyz^
 ||porn.com^
 ||pornhubpremium.com^
 ||ppsh41.com^
@@ -470,13 +485,13 @@
 ||psychforums.com^
 ||psychonaut.com^
 ||psychonautwiki.org^
-||pub.sitetag.us^
 ||pururin.to^
 ||putalocura.com^
 ||quora.com^
 ||r18.com^
 ||radioaryan.com^
 ||radixjournal.com^
+||rave.cz^
 ||ravesafe.org^
 ||rawdl.net^
 ||reachout.com^
@@ -512,7 +527,6 @@
 ||shrink-service.it^
 ||shroomery.org^
 ||sigsauer.com^
-||sihp.org^
 ||silencershop.com^
 ||silencertalk.com^
 ||silkroadmarket.org^
@@ -584,6 +598,7 @@
 ||traffic.tc-clicks.com^
 ||transangels.com^
 ||treatingyourself.com^
+||trilltrill.jp^
 ||tripadvisor.com^
 ||truthsocial.com^
 ||tumblr.com^
@@ -629,6 +644,7 @@
 ||wingmanapp.com^
 ||wireclub.com^
 ||with.is^
+||woman.excite.co.jp^
 ||wooplus.com^
 ||www1.javhihi.me^
 ||xdtalk.com^

@@ -50,6 +50,7 @@
 ||crpt.livejasmin.com＾^
 ||d144jmuhz9kvbq.cloudfront.net^
 ||d2zgd5orehvssg.cloudfront.net^
+||d3al52d8cojds7.cloudfront.net^
 ||dailyinterventioncongestion.com^
 ||danbooru.donmai.us^
 ||dbbp1.net^
@@ -161,7 +162,6 @@
 ||ppfpocea.com^
 ||pr.hogei.info^
 ||privatesociety.com^
-||pub.sitetag.us^
 ||pururin.to^
 ||putalocura.com^
 ||r18.com^
