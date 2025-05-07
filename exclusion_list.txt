@@ -1,5 +1,13 @@
 @@||norton.com^
+
+! Pepup
 @@||pepup.life^
 @@||healthcaretechnologiescorp.data.adobedc.net^
+
+! Among us
 @@||epicgames.dev^
 @@||epicgames.com^
+
+! Speak
+@@||sdk.split.io^
+@@||auth.split.io^

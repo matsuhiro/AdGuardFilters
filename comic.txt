@@ -30,3 +30,16 @@
 ||cdn-manga-stf-router-api.line-scdn.net^
 ||manga-channel-web-api.line-apps.com^
 ||piccoma.com^
+||18comic.vip^
+||18comic.org^
+||manhwa18.cc^
+||doujindesu.com^
+||porn-comics.xyz^
+||pururin.to^
+||8muses.xxx^
+||hentai2read.xyz^
+||mangahentaionline.com^
+||mangaporno.com^
+||manga-okoku.jp^
+||comic-festa.com^
+||fantia.jp^
