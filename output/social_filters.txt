@@ -4,13 +4,19 @@
 ||ameba.jp^
 ||ameblo.jp^
 ||archiveofourown.org^
+||asagei-plus.com^
+||asagei.com^
+||asajo.jp^
 ||ask.fm^
+||baby-calendar.jp^
 ||cafemom.com^
 ||clubhouse.com^
 ||clubpenguin.com^
 ||crunchyroll.com^
 ||curiouscat.me^
 ||cyworld.com^
+||cyzo.com^
+||cyzowoman.com^
 ||dailymotion.com^
 ||dcard.tw^
 ||deviantart.com^
@@ -25,6 +31,7 @@
 ||fujinkoron.jp^
 ||gab.com^
 ||gaiaonline.com^
+||gentosha-go.com^
 ||gettr.com^
 ||grapee.jp^
 ||habbo.com^
@@ -32,6 +39,7 @@
 ||instagr.am^
 ||instagram.com^
 ||kakao.com^
+||lettuceclub.net^
 ||linkedin.com^
 ||liveinternet.ru^
 ||livejournal.com^
@@ -43,8 +51,10 @@
 ||mewe.com^
 ||minds.com^
 ||mixi.jp^
+||myjitsu.jp^
 ||mylol.com^
 ||myspace.com^
+||netgeek.biz^
 ||newgrounds.com^
 ||nicovideo.jp^
 ||ok.ru^
@@ -66,9 +76,11 @@
 ||studivz.net^
 ||t.me^
 ||teams.microsoft.com^
+||techinsight.jp^
 ||telegram.me^
 ||telegram.org^
 ||tiktok.com^
+||tocana.jp^
 ||trilltrill.jp^
 ||tripadvisor.com^
 ||truthsocial.com^
@@ -82,6 +94,7 @@
 ||wattpad.com^
 ||wechat.com^
 ||weibo.com^
+||wezz-y.com^
 ||whatsapp.com^
 ||wireclub.com^
 ||woman.excite.co.jp^

@@ -1,7 +1,7 @@
 ! Title: Japan Youth Restricted Filter
 ! Description: It contains a blacklist of content considered inappropriate for young people in Japan; restricts inappropriate content on LINE and Yahoo searches.
 ! Homepage: https://github.com/matsuhiro/AdGuardFilters
-! Last modified: 2025-05-07T01:22:55.574Z
+! Last modified: 2025-05-07T11:51:28.276Z
 
 @@||obs.line-scdn.net^
 @@||stickershop.line-scdn.net^
@@ -64,6 +64,8 @@
 ||armslist.com^
 ||army-technology.com^
 ||aryan-nations.org^
+||asagei.com^
+||asajo.jp^
 ||asgdfasad.mm-cgnews.com^
 ||ashbusstop.org^
 ||ashspace.org^
@@ -74,6 +76,7 @@
 ||astatalk.com^
 ||atncorp.com^
 ||aypsite.org^
+||baby-calendar.jp^
 ||bakusai.com^
 ||bankofamerica-login.com^
 ||barneysfarm.com^
@@ -102,7 +105,6 @@
 ||budsgunshop.com^
 ||busyspr.com^
 ||buy-xanax-online.com^
-||buymolly.com^
 ||bzcdn.fin.ovh^
 ||ca.clcknads.pro^
 ||cabelas.com^
@@ -153,6 +155,8 @@
 ||cuttercraze.com^
 ||cuttingedge.org^
 ||cyworld.com^
+||cyzo.com^
+||cyzowoman.com^
 ||cz-usa.com^
 ||d144jmuhz9kvbq.cloudfront.net^
 ||d2zgd5orehvssg.cloudfront.net^
@@ -247,6 +251,7 @@
 ||gab.com^
 ||gaiaonline.com^
 ||gelbooru.com^
+||gentosha-go.com^
 ||gettr.com^
 ||ghostgunner.net^
 ||gif.7mmtv.sx^
@@ -320,7 +325,6 @@
 ||invisiblefriends.net^
 ||iqoo.me^
 ||ironmarch.org^
-||irs-refund.com^
 ||janes.com^
 ||jav2be.com^
 ||javapipe.com^
@@ -353,6 +357,7 @@
 ||leakforums.net^
 ||legalhighreviews.com^
 ||legalhighsforum.com^
+||lettuceclub.net^
 ||lightfighter.net^
 ||line-scdn.net^
 ||linemanga-obs.line-scdn.net^
@@ -420,6 +425,7 @@
 ||natall.com^
 ||nationalvanguard.org^
 ||naughtyamerica.com^
+||netgeek.biz^
 ||netshade.net^
 ||newgrounds.com^
 ||newnation.org^
@@ -574,6 +580,7 @@
 ||taurusarmed.net^
 ||taurususa.com^
 ||teams.microsoft.com^
+||techinsight.jp^
 ||teenhelp.org^
 ||telegram.me^
 ||telegram.org^
@@ -589,6 +596,7 @@
 ||tiktok.com^
 ||tktube.com^
 ||tnaflix.com^
+||tocana.jp^
 ||tokecity.com^
 ||tokyohot.jp^
 ||tombstonetactical.com^
@@ -636,6 +644,7 @@
 ||weedmaps.com^
 ||weibo.com^
 ||wellsfargo-login.com^
+||wezz-y.com^
 ||whatsapp.com^
 ||whitenations.com^
 ||whitepower.org^
