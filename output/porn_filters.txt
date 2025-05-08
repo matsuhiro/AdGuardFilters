@@ -118,6 +118,7 @@
 ||jp.spankbang.com^
 ||js.isboost.co.jp^
 ||js.sprout-ad.com^
+||jutyledu.pro^
 ||jwpcdn.com^
 ||jxf0088.com^
 ||k77hof1z7k.com^

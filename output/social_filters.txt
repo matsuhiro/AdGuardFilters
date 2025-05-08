@@ -56,6 +56,7 @@
 ||myspace.com^
 ||netgeek.biz^
 ||newgrounds.com^
+||news.mynavi.jp^
 ||nicovideo.jp^
 ||ok.ru^
 ||paltalk.com^
@@ -81,6 +82,7 @@
 ||telegram.org^
 ||tiktok.com^
 ||tocana.jp^
+||topics.smt.docomo.ne.jp^
 ||trilltrill.jp^
 ||tripadvisor.com^
 ||truthsocial.com^

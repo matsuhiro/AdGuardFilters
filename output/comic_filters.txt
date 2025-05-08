@@ -6,10 +6,8 @@
 ||booth.pm^
 ||caramelkissa.com^
 ||cdn-manga-stf-router-api.line-scdn.net^
-||cmoa.jp^
 ||comic-festa.com^
 ||comic.k-manga.jp^
-||dmm.co.jp^
 ||dokuhapro.com^
 ||doujin-free.com^
 ||doujindesu.com^
@@ -19,7 +17,6 @@
 ||fantia.jp^
 ||fanza.jp^
 ||hentai2read.xyz^
-||hitomi.la^
 ||komiflo.com^
 ||linemanga-obs.line-scdn.net^
 ||manga-channel-web-api.line-apps.com^
@@ -36,7 +33,6 @@
 ||momon-ga.com^
 ||piccoma.com^
 ||porn-comics.xyz^
-||pururin.to^
 ||rawdl.net^
 ||sukima.me^
 ||yomimo.jp^

@@ -104,3 +104,5 @@
 ||asajo.jp^
 ||techinsight.jp^
 ||netgeek.biz^
+||news.mynavi.jp^
+||topics.smt.docomo.ne.jp^
