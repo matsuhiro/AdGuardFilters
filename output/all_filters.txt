@@ -1,7 +1,7 @@
 ! Title: Japan Youth Restricted Filter
 ! Description: It contains a blacklist of content considered inappropriate for young people in Japan; restricts inappropriate content on LINE and Yahoo searches.
 ! Homepage: https://github.com/matsuhiro/AdGuardFilters
-! Last modified: 2025-05-08T03:07:16.027Z
+! Last modified: 2025-05-21T14:26:30.844Z
 
 @@||obs.line-scdn.net^
 @@||stickershop.line-scdn.net^
@@ -28,6 +28,7 @@
 ||86a6b542l7.com^
 ||88files.net^
 ||8muses.xxx^
+||911.re^
 ||91porn.com^
 ||9gag.com^
 ||a-d.pw^
@@ -129,7 +130,6 @@
 ||cdn.trafficstars.com^
 ||cdnjs.cloudflare.com^
 ||ch-news.line-apps.com^
-||charmour.club^
 ||chatroulette.com^
 ||cheaperthandirt.com^
 ||cheatengine.org^
@@ -329,10 +329,10 @@
 ||jav2be.com^
 ||javapipe.com^
 ||javmost.cx^
-||javsix.xyz^
 ||javstream.top^
 ||javwhores.com^
 ||javwide.com^
+||javynow.com^
 ||jeevansathi.com^
 ||joymii.com^
 ||jp.spankbang.com^
@@ -396,7 +396,6 @@
 ||melonbooks.co.jp^
 ||mescaline.com^
 ||messenger.com^
-||metanoia.org^
 ||metapedia.org^
 ||metart.com^
 ||mewe.com^
@@ -461,7 +460,6 @@
 ||patriots.win^
 ||paypal-account.com^
 ||paypal-login.com^
-||paypal-update.com^
 ||paypal-verification.com^
 ||pc-adroute.focas.jp^
 ||pelletguns.com^
@@ -529,12 +527,14 @@
 ||sensiseeds.com^
 ||sentry-uit.line-apps.com^
 ||servicenow-support.com^
+||shadow-socks.com^
 ||sharpweb.org^
 ||shemaleyum.com^
 ||shotgunworld.com^
 ||shrink-service.it^
 ||shroomery.org^
 ||sigsauer.com^
+||sihp.org^
 ||silencershop.com^
 ||silencertalk.com^
 ||silkroadmarket.org^
