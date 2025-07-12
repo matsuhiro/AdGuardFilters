@@ -29,6 +29,7 @@
 ||gmailverify.com^
 ||hackforums.net^
 ||hellboundhackers.org^
+||indetectables.net^
 ||instagram-login.com^
 ||irs-refund.com^
 ||keygen.nl^
@@ -40,6 +41,7 @@
 ||microsoft-security-alert.com^
 ||microsofy.com^
 ||myfreedownloadmanager.com^
+||nulled.to^
 ||onion.technology^
 ||oscam.cc^
 ||paypal-account.com^

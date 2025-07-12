@@ -106,3 +106,5 @@
 ||netgeek.biz^
 ||news.mynavi.jp^
 ||topics.smt.docomo.ne.jp^
+||hochi.news^
+||otonasalone.jp^

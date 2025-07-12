@@ -17,9 +17,8 @@
 ||flightsy.win^
 ||flightzy.date^
 ||freecontent.live^
+||go.bestmobiworld.com^
 ||go.megabanners.cf^
-||herominers.com^
-||hostingcloud.party^
 ||icerockmining.io^
 ||kinokongo.cc^
 ||minero-proxy-*.now.sh^
