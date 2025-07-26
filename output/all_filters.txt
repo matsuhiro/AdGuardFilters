@@ -1,7 +1,7 @@
 ! Title: Japan Youth Restricted Filter
 ! Description: It contains a blacklist of content considered inappropriate for young people in Japan; restricts inappropriate content on LINE and Yahoo searches.
 ! Homepage: https://github.com/matsuhiro/AdGuardFilters
-! Last modified: 2025-07-12T01:54:33.021Z
+! Last modified: 2025-07-26T13:11:24.619Z
 
 @@||obs.line-scdn.net^
 @@||stickershop.line-scdn.net^
@@ -43,7 +43,6 @@
 ||admin.blog.fc2.com^
 ||adqy6rzwcs.com^
 ||ads.adxadserv.com^
-||ads.medi-8.net^
 ||aimsurplus.com^
 ||airgunforum.ca^
 ||airsoftgi.com^
@@ -51,7 +50,6 @@
 ||akforum.net^
 ||allsafevpn.com^
 ||alphaporno.com^
-||amazon.co.jp^
 ||ameba.jp^
 ||ameblo.jp^
 ||americanfreepress.net^
@@ -79,6 +77,7 @@
 ||aso-bo.com^
 ||astatalk.com^
 ||atncorp.com^
+||avsex.me^
 ||aypsite.org^
 ||baby-calendar.jp^
 ||bakusai.com^
@@ -134,6 +133,7 @@
 ||cdn.trafficstars.com^
 ||cdnjs.cloudflare.com^
 ||ch-news.line-apps.com^
+||charmour.club^
 ||chatroulette.com^
 ||cheaperthandirt.com^
 ||cheatengine.org^
@@ -168,6 +168,7 @@
 ||comicfesta.com^
 ||comico.jp^
 ||coolmic.me^
+||corocoro.jp^
 ||counter-currents.com^
 ||cracks.am^
 ||crunchyroll.com^
@@ -253,12 +254,10 @@
 ||femjoy.com^
 ||fetlife.com^
 ||fhyl02.com^
-||fhyl04.com^
 ||filemoon.sx^
 ||finalsolution88.com^
 ||firearmstalk.com^
 ||flickr.com^
-||fmax.xyz^
 ||fnherstal.com^
 ||freeproxy.com^
 ||freeproxylists.net^
@@ -331,7 +330,6 @@
 ||images.dmca.com^
 ||img.ad-nex.com^
 ||img.bobx.com^
-||img.erogazoufactory.com^
 ||img.gsspat.jp^
 ||img588.net^
 ||imgflare.com^
@@ -505,6 +503,7 @@
 ||oscam.cc^
 ||otonasalone.jp^
 ||overgrow.com^
+||p.picuphost.com^
 ||pachikuri.jp^
 ||pairs.lv^
 ||palmettostatearmory.com^
@@ -549,6 +548,7 @@
 ||psychonautwiki.org^
 ||pub.javwide.com^
 ||pub.sitetag.us^
+||pucchigumi.net^
 ||pururin.to^
 ||putalocura.com^
 ||queen-casino.info^
@@ -569,7 +569,6 @@
 ||renegadetribune.com^
 ||renren.com^
 ||researchchemicals.net^
-||revbigo.com^
 ||rimacomiplus.jp^
 ||ro89.com^
 ||roblox.com^
@@ -641,7 +640,6 @@
 ||sunday-webry.com^
 ||sunporno.com^
 ||survivalistboards.com^
-||svpri.xyz^
 ||swfa.com^
 ||swissborg.com^
 ||sword-buyers-guide.com^
@@ -716,6 +714,7 @@
 ||web-ace.jp^
 ||webcomic.ohtabooks.com^
 ||webcomicgamma.takeshobo.co.jp^
+||webcomics.jp^
 ||webtoons.com^
 ||wechat.com^
 ||weedmaps.com^

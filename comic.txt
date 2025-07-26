@@ -114,7 +114,6 @@
 ||mechacomi.jp^
 ||manga.line.me^
 ||piccoma.com^
-||amazon.co.jp^
 ||mangaplaza.com^
 ||mangapon.com^
 ||mangadon.com^
@@ -206,7 +205,6 @@
 ||mechacomi.jp^
 ||manga.line.me^
 ||piccoma.com^
-||amazon.co.jp^
 ||mangaplaza.com^
 ||mangapon.com^
 ||mangadon.com^
@@ -218,3 +216,7 @@
 ||tapas.io^
 ||lezhin.com^
 ||bilibili.tv^
+||corocoro.jp^
+||x.com/corocoroweekly^
+||webcomics.jp^
+||pucchigumi.net^

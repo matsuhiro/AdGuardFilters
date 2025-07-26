@@ -3,7 +3,6 @@
 ||18comic.org^
 ||18comic.vip^
 ||8muses.xxx^
-||amazon.co.jp^
 ||bigcomics.jp^
 ||bilibili.tv^
 ||booklive.jp^
@@ -30,6 +29,7 @@
 ||comicfesta.com^
 ||comico.jp^
 ||coolmic.me^
+||corocoro.jp^
 ||cycomi.com^
 ||dl-raw.net^
 ||dl-raw.to^
@@ -97,6 +97,7 @@
 ||pocket.shonenmagazine.com^
 ||pokeman.co.jp^
 ||porn-comics.xyz^
+||pucchigumi.net^
 ||rawdevart.com^
 ||rawdl.net^
 ||rawkuma.com^
@@ -114,8 +115,10 @@
 ||web-ace.jp^
 ||webcomic.ohtabooks.com^
 ||webcomicgamma.takeshobo.co.jp^
+||webcomics.jp^
 ||webtoons.com^
 ||welovemanga.one^
+||x.com/corocoroweekly^
 ||yawaspi.com^
 ||yomimo.jp^
 ||yomonga.com^

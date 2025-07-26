@@ -34,7 +34,6 @@
 ||cbbp1.com^
 ||cccc555.net^
 ||cdn-images.net^
-||cdn.acloudvideos.com^
 ||cdn.ad.maist.jp^
 ||cdn.r18hub.com^
 ||cdn.trafficstars.com^
@@ -169,13 +168,11 @@
 ||pub.javwide.com^
 ||pub.sitetag.us^
 ||pururin.to^
-||push-notification.tools^
 ||putalocura.com^
 ||queen-casino.info^
 ||r18.com^
 ||redlele.com^
 ||rekovers.ru^
-||revbigo.com^
 ||rlomrjxrpsev.com^
 ||ro89.com^
 ||rule34.xxx^
