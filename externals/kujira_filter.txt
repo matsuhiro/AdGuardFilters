@@ -1,0 +1,53 @@
+[Adblock Plus 2.0]
+! Title: クジラフィルタ（コインマイニングブロック）
+! Last modified: 2021/02/25 01:00 JST
+! Expires: 6 hours (update frequency)
+! License: CC0 (Public Domain)
+! Homepage: https://eeii0a5l.github.io/mochifilter_homepage/kujira.html
+
+
+!【下記の購読も必要】
+! https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
+! https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
+
+!有名どころ
+||coin-hive.com^$third-party
+||coinhive.com^$third-party
+||cnhv.co^$third-party
+!coinhiveが2019年3月8日をもってサービスを終了
+!https://nlab.itmedia.co.jp/nl/articles/1902/27/news087.html
+
+!ImageSparkがstaticset.comでマイニングする
+!https://egg.5ch.net/test/read.cgi/software/1475377484/588
+!https://egg.5ch.net/test/read.cgi/software/1475377484/680
+!https://egg.5ch.net/test/read.cgi/software/1519004649/118
+!https://productforums.google.com/forum/#!topic/chrome/duWfVj3h24E
+||staticset.com^$third-party
+
+!https://egg.5ch.net/test/read.cgi/software/1512653892/229
+!https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Trojan:HTML/Brocoiner
+||coinhive.com^$third-party
+||coin-hive.com^$third-party
+||crypto-loot.com^$third-party
+||camillesanz.com^$third-party
+!||oinblind.com^$third-party
+||etacontent.com^$third-party
+||cazala.github.io^$third-party
+||eruuludam.mn^$third-party
+
+!やたらCMがうざい
+||sun-mining.com^$third-party
+!CMがやたらうざい２
+||icerockmining.io^$third-party
+!マイニング３
+||swissborg.com^$third-party
+
+
+!Webrootによると、2017年9月以降、5000以上のウェブサイトに仮想通貨採掘ツール「CoinHive」が仕込まれているという。
+!https://headlines.yahoo.co.jp/hl?a=20180327-35116730-cnetj-sci&pos=2
+!http://www.itmedia.co.jp/news/articles/1803/30/news119.html
+!http://www.itmedia.co.jp/news/articles/1803/30/news102.html
+
+
+
+!END

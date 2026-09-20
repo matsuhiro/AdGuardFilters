@@ -3,7 +3,6 @@
 ||18comic.org^
 ||18comic.vip^
 ||8muses.xxx^
-||bigcomics.jp^
 ||bilibili.tv^
 ||booklive.jp^
 ||bookwalker.jp^
@@ -13,7 +12,6 @@
 ||ciao.shogakukan.co.jp^
 ||comic-action.com^
 ||comic-days.jp^
-||comic-earthstar.com^
 ||comic-essay.com^
 ||comic-festa.com^
 ||comic-gardo.com^
@@ -29,7 +27,6 @@
 ||comicfesta.com^
 ||comico.jp^
 ||coolmic.me^
-||corocoro.jp^
 ||cycomi.com^
 ||dl-raw.net^
 ||dl-raw.to^
@@ -41,7 +38,6 @@
 ||endevart.com^
 ||fanbox.cc^
 ||fantia.jp^
-||fanza.jp^
 ||gangan-online.com^
 ||hachiraw.xxx^
 ||hamiraw.com^
@@ -49,20 +45,17 @@
 ||hentai2read.xyz^
 ||honto.jp^
 ||ichijin-plus.com^
-||inkr.com^
 ||jestful.net^
 ||kansai.mag-garden.co.jp^
 ||klmag.net^
 ||klmanga.com^
 ||komiflo.com^
-||kuragebunch.com^
 ||lezhin.com^
 ||linemanga-obs.line-scdn.net^
 ||ln.senmanga.com^
 ||manga-channel-web-api.line-apps.com^
 ||manga-channel.line.me^
 ||manga-okoku.jp^
-||manga-one.com^
 ||manga-zip.info^
 ||manga-zip.is^
 ||manga.line.me^
@@ -79,7 +72,6 @@
 ||mangamiru.com^
 ||manganato.com^
 ||manganelo.com^
-||mangaplaza.com^
 ||mangaplus.shueisha.co.jp^
 ||mangapon.com^
 ||mangaporno.com^
@@ -87,7 +79,6 @@
 ||mangapro.xxx^
 ||mangaraw.org^
 ||mechacomi.jp^
-||mechacomic.jp^
 ||melonbooks.co.jp^
 ||moekuro.com^
 ||nikkangecchan.jp^
@@ -101,13 +92,11 @@
 ||rawdevart.com^
 ||rawdl.net^
 ||rawkuma.com^
-||rimacomiplus.jp^
 ||senmanga.com^
 ||shonenjumpplus.com^
 ||souffle.life^
 ||storia.takeshobo.co.jp^
 ||sukima.me^
-||sunday-webry.com^
 ||tapas.io^
 ||to-corona-ex.com^
 ||to-ti.in^

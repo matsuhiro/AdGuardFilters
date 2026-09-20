@@ -27,7 +27,6 @@
 ||cocaineanonymous.org^
 ||dancesafe.org^
 ||darknetlive.com^
-||dmt-nexus.me^
 ||drogalcohol.com^
 ||drogenkultur.net^
 ||drugbuyers.com^
@@ -58,7 +57,6 @@
 ||legalhighsforum.com^
 ||litorral.com^
 ||magic-mushrooms-shop.com^
-||marijuanapassion.com^
 ||mdma.net^
 ||mescaline.com^
 ||mushroomcompanion.com^
@@ -71,9 +69,7 @@
 ||overgrow.com^
 ||pillreports.net^
 ||psychedelicfrontier.com^
-||psychforums.com^
 ||psychonaut.com^
-||psychonautwiki.org^
 ||rave.cz^
 ||ravesafe.org^
 ||researchchemicals.net^

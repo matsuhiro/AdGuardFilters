@@ -1,6 +1,5 @@
 ||1911forum.com^
 ||aimsurplus.com^
-||airgunforum.ca^
 ||airsoftgi.com^
 ||ak47.net^
 ||akforum.net^
@@ -42,7 +41,6 @@
 ||gunbroker.com^
 ||gundirectory.com^
 ||gunmagwarehouse.com^
-||gunnook.com^
 ||gunowners.org^
 ||guns.com^
 ||heckler-koch.com^
@@ -56,7 +54,6 @@
 ||lightfighter.net^
 ||luckygunner.com^
 ||m4carbine.net^
-||machinegunboards.com^
 ||marlinfirearms.com^
 ||midwayusa.com^
 ||military.com^
@@ -93,6 +90,5 @@
 ||vortexoptics.com^
 ||waltherforums.com^
 ||weapon-blog.com^
-||weaponevolution.com^
 ||winchester.com^
 ||xdtalk.com^

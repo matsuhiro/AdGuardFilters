@@ -23,6 +23,7 @@
 ||discord.com^
 ||discord.gg^
 ||douban.com^
+||dreamwidth.org^
 ||facebook.com^
 ||fanfiction.net^
 ||fb.com^
@@ -31,13 +32,11 @@
 ||fujinkoron.jp^
 ||gab.com^
 ||gaiaonline.com^
-||gentosha-go.com^
 ||gettr.com^
 ||grapee.jp^
 ||habbo.com^
 ||hochi.news^
 ||inkbunny.net^
-||instagr.am^
 ||instagram.com^
 ||kakao.com^
 ||lettuceclub.net^
@@ -60,7 +59,6 @@
 ||news.mynavi.jp^
 ||nicovideo.jp^
 ||ok.ru^
-||otonasalone.jp^
 ||paltalk.com^
 ||parler.com^
 ||pinterest.com^
@@ -74,7 +72,6 @@
 ||skype.com^
 ||slack.com^
 ||snapchat.com^
-||sofurry.com^
 ||steamcommunity.com^
 ||studivz.net^
 ||t.me^

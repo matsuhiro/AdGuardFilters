@@ -1,4 +1,3 @@
-||194964.com^
 ||550909.com^
 ||amolatina.com^
 ||aso-bo.com^
@@ -10,7 +9,6 @@
 ||chinalovecupid.com^
 ||clover.co^
 ||dilmil.co^
-||downapp.com^
 ||establishedmen.com^
 ||feeld.co^
 ||fetlife.com^
@@ -19,17 +17,19 @@
 ||guyspy.com^
 ||happymail.co.jp^
 ||jeevansathi.com^
-||latinomeetup.com^
 ||ldssingles.com^
 ||lumenapp.com^
 ||mamba.ru^
 ||matchdoctor.com^
 ||matchmakers.com^
+||meetic.com^
 ||mocospace.com^
 ||muslima.com^
+||muzmatch.com^
 ||mylol.com^
 ||omiai-jp.com^
 ||pairs.lv^
+||plentyoffish.com^
 ||sdc.com^
 ||seeking.com^
 ||soulmates.com^

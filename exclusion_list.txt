@@ -1,5 +1,18 @@
 @@||norton.com^
 
+! LY
+@@||weather-app.yahoo.co.jp^
+@@||map.yahooapis.jp^
+@@||weather-map.yahooapis.jp^
+@@||weather.yahooapis.jp^
+@@||profile.line-scdn.net^
+@@||user-profile.line-scdn.net^
+@@||shop.line-scdn.net^
+@@||aaplimg.com^
+@@||cdn-apple.com^
+@@||apple.com^
+@@||scp-jp.wikidot.com^
+
 ! Pepup
 @@||pepup.life^
 @@||healthcaretechnologiescorp.data.adobedc.net^
@@ -11,4 +24,3 @@
 ! Speak
 @@||sdk.split.io^
 @@||auth.split.io^
-

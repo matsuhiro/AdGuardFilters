@@ -5,6 +5,5 @@
 ||news.line-apps.com^
 ||scdn.line-apps.com^
 ||square-api.line.me^
-||uts-front.line-apps.com^
 ||vessel.line-apps.com^
 ||yuki-cdn.line-apps.com^

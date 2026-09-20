@@ -1,1 +1,2 @@
 ||search.yahoo.co.jp^
+||yahooapis.jp^

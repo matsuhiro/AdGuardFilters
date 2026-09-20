@@ -1,5 +1,6 @@
 ||911.re^
 ||allsafevpn.com^
+||betterproxy.net^
 ||blockaway.com^
 ||browservpn.com^
 ||dtunnel.com^
@@ -11,6 +12,7 @@
 ||javapipe.com^
 ||letshide.me^
 ||netshade.net^
+||openvpn.net^
 ||orbot.org^
 ||proxydocker.com^
 ||proxylist.geonode.com^
@@ -18,7 +20,6 @@
 ||shadow-socks.com^
 ||sslh.org^
 ||torbrowser.com^
-||torguard.com^
 ||ultrahide.me^
 ||ultrareach.com^
 ||vtunnel.com^
