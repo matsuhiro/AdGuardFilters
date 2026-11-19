@@ -1,4 +1,3 @@
-||calendar-calapp-server.line-apps.com^
 ||ch-news.line-apps.com^
 ||gw.line.naver.jp^
 ||line-home.flvcdn.net^

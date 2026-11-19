@@ -1,7 +1,7 @@
 ! Title: Japan Youth Restricted Filter
 ! Description: It contains a blacklist of content considered inappropriate for young people in Japan; restricts inappropriate content on LINE and Yahoo searches.
 ! Homepage: https://github.com/matsuhiro/AdGuardFilters
-! Last modified: 2026-11-19T00:59:09.083Z
+! Last modified: 2026-11-19T01:09:24.236Z
 
 @@||obs.line-scdn.net^
 @@||stickershop.line-scdn.net^
@@ -101,7 +101,6 @@
 ||bzcdn.fin.ovh^
 ||cabelas.com^
 ||cafemom.com^
-||calendar-calapp-server.line-apps.com^
 ||calguns.net^
 ||camwhores.tv^
 ||canadadrugs.com^
@@ -443,6 +442,7 @@
 ||omiai-jp.com^
 ||oneangrygamer.net^
 ||online.ichijinsha.co.jp^
+||onlinepharmacy.com^
 ||onlyfans.com^
 ||open2ch.net^
 ||openvpn.net^
