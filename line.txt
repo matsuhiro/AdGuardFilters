@@ -10,6 +10,9 @@
 ||uts-front.line-apps.com^
 ||sentry-uit.line-apps.com^
 ||line-scdn.net^
+||s.yimg.jp^
+||line-home.flvcdn.net^
+||calendar-calapp-server.line-apps.com^
 @@||obs.line-scdn.net^
 @@||stickershop.line-scdn.net^
 @@||pagepoker.line-scdn.net^
