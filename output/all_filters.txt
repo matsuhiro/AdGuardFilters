@@ -1,16 +1,14 @@
 ! Title: Japan Youth Restricted Filter
 ! Description: It contains a blacklist of content considered inappropriate for young people in Japan; restricts inappropriate content on LINE and Yahoo searches.
 ! Homepage: https://github.com/matsuhiro/AdGuardFilters
-! Last modified: 2026-09-20T01:08:40.296Z
+! Last modified: 2026-11-19T00:59:09.083Z
 
 @@||obs.line-scdn.net^
 @@||stickershop.line-scdn.net^
 @@||pagepoker.line-scdn.net^
 @@||manager.line-scdn.net^
 
-||13dl.me^
 ||13dl.net^
-||16chan.xyz^
 ||18comic.org^
 ||18comic.vip^
 ||1911forum.com^
@@ -29,15 +27,12 @@
 ||86a6b542l7.com^
 ||88files.net^
 ||8muses.xxx^
-||911.re^
 ||91porn.com^
 ||9gag.com^
 ||a.o333o.com^
 ||a.spankbang.com^
-||adderall.net^
 ||adderalladdiction.com^
 ||adf.org.au^
-||admesia.com^
 ||admin.blog.fc2.com^
 ||adqy6rzwcs.com^
 ||ads.adxadserv.com^
@@ -57,6 +52,7 @@
 ||ammoseek.com^
 ||amolatina.com^
 ||amren.com^
+||ams.exad.jp^
 ||analy.fin.ovh^
 ||anarox.com^
 ||ar15.com^
@@ -75,6 +71,7 @@
 ||aso-bo.com^
 ||atncorp.com^
 ||aypsite.org^
+||b3z29k1uxb.com^
 ||baby-calendar.jp^
 ||bakusai.com^
 ||barneysfarm.com^
@@ -85,7 +82,6 @@
 ||beretta.com^
 ||bilibili.tv^
 ||bitchute.com^
-||bitporno.com^
 ||blackplanet.com^
 ||bladeforums.com^
 ||blockaway.com^
@@ -102,10 +98,10 @@
 ||brutalvideos.com^
 ||budsgunshop.com^
 ||busyspr.com^
-||buymolly.com^
 ||bzcdn.fin.ovh^
 ||cabelas.com^
 ||cafemom.com^
+||calendar-calapp-server.line-apps.com^
 ||calguns.net^
 ||camwhores.tv^
 ||canadadrugs.com^
@@ -128,6 +124,7 @@
 ||cheaperthandirt.com^
 ||cheeky-lovers.com^
 ||chem.eu^
+||chemsrus.com^
 ||chimpout.com^
 ||chinalovecupid.com^
 ||churchofeuthanasia.org^
@@ -152,6 +149,7 @@
 ||comic.k-manga.jp^
 ||comicbunch-kai.com^
 ||comicbunch.com^
+||comicfesta.com^
 ||comico.jp^
 ||coolmic.me^
 ||counter-currents.com^
@@ -176,6 +174,7 @@
 ||deathaddict.co^
 ||defcad.com^
 ||defensereview.com^
+||dekoder.ws^
 ||depressionforums.org^
 ||despairfaction.club^
 ||deviantart.com^
@@ -188,6 +187,7 @@
 ||dl-raw.net^
 ||dl-raw.to^
 ||documentingreality.com^
+||dontfilter.us^
 ||douban.com^
 ||doujin-free.com^
 ||doujindesu.com^
@@ -200,10 +200,11 @@
 ||drugwiki.net^
 ||dtunnel.com^
 ||dutch-passion.nl^
+||dxlive.com^
 ||dxm.darkridge.com^
+||dzy2017.pw^
 ||ebookjapan.yahoo.co.jp^
 ||ec.toranoana.jp^
-||echiechi-deai.com^
 ||ecstasydata.org^
 ||efukt.com^
 ||encyclopediadramatica.online^
@@ -235,8 +236,8 @@
 ||finalsolution88.com^
 ||firearmstalk.com^
 ||flickr.com^
-||fmax.xyz^
 ||fnherstal.com^
+||free-proxy-list.net^
 ||freeproxy.com^
 ||freeproxylists.net^
 ||freeproxyserver.net^
@@ -272,9 +273,7 @@
 ||guyspy.com^
 ||gw.line.naver.jp^
 ||habbo.com^
-||hanime.tv^
 ||happymail.co.jp^
-||hashmuseum.com^
 ||hatachimanga.com^
 ||hdzog.com^
 ||healthyplace.com^
@@ -295,7 +294,6 @@
 ||hustler.com^
 ||hyperreal.org^
 ||i.imgur.com^
-||icerockmining.io^
 ||ichijin-plus.com^
 ||icmag.com^
 ||images.dmca.com^
@@ -318,8 +316,8 @@
 ||janes.com^
 ||jav2be.com^
 ||javapipe.com^
-||javembed.com^
 ||javmost.cx^
+||javsix.xyz^
 ||javwhores.com^
 ||javwide.com^
 ||javynow.com^
@@ -337,6 +335,7 @@
 ||khatresearch.org^
 ||kinokongo.cc^
 ||kiwifarms.net^
+||klmag.net^
 ||klmanga.com^
 ||knife-depot.com^
 ||knifecenter.com^
@@ -351,6 +350,7 @@
 ||lezhin.com^
 ||lifeideas.site^
 ||lightfighter.net^
+||line-home.flvcdn.net^
 ||line-scdn.net^
 ||linemanga-obs.line-scdn.net^
 ||linevoom.line.me^
@@ -373,10 +373,10 @@
 ||manga.line.me^
 ||manga1001.com^
 ||manga1001.in^
-||mangadex.io^
 ||mangadon.com^
 ||mangagohan.com^
 ||mangahato.com^
+||mangakakalot.to^
 ||mangalifewin.takeshobo.co.jp^
 ||manganato.com^
 ||manganelo.com^
@@ -404,7 +404,6 @@
 ||military.com^
 ||militaryfactory.com^
 ||minds.com^
-||mine.blank.drawpad.org^
 ||minero-proxy-*.now.sh^
 ||minnano-av.com^
 ||mixi.jp^
@@ -428,7 +427,6 @@
 ||netgeek.biz^
 ||netshade.net^
 ||newgrounds.com^
-||newnation.org^
 ||news.line-apps.com^
 ||news.mynavi.jp^
 ||nicovideo.jp^
@@ -445,7 +443,6 @@
 ||omiai-jp.com^
 ||oneangrygamer.net^
 ||online.ichijinsha.co.jp^
-||onlinepharmacy.com^
 ||onlyfans.com^
 ||open2ch.net^
 ||openvpn.net^
@@ -488,13 +485,13 @@
 ||proana.us^
 ||proxydocker.com^
 ||proxylist.geonode.com^
+||proxynova.com^
 ||proxyscan.io^
 ||psychedelicfrontier.com^
 ||psychonaut.com^
 ||pub.javwide.com^
 ||pub.sitetag.us^
 ||pucchigumi.net^
-||pururin.to^
 ||putalocura.com^
 ||quora.com^
 ||r18.com^
@@ -520,9 +517,11 @@
 ||rollitup.org^
 ||ruger.com^
 ||rule34.xxx^
+||s.yimg.jp^
 ||s4.histats.com^
 ||salviasource.org^
 ||sanctioned-suicide.com^
+||sanctioned-suicide.net^
 ||scdn.line-apps.com^
 ||sdc.com^
 ||search.yahoo.co.jp^
@@ -537,7 +536,6 @@
 ||shemaleyum.com^
 ||shonenjumpplus.com^
 ||shotgunworld.com^
-||shrink-service.it^
 ||shroomery.org^
 ||sigsauer.com^
 ||sihp.org^
@@ -561,10 +559,12 @@
 ||springfield-armory.com^
 ||square-api.line.me^
 ||sslh.org^
+||sslproxies.org^
 ||st.adxxx.info^
 ||st.adxxx.me^
 ||static.adxadserv.com^
 ||static.pc-adroute.focas.jp^
+||stealthy.co^
 ||steamcommunity.com^
 ||storia.takeshobo.co.jp^
 ||stormfront.org^
@@ -578,7 +578,6 @@
 ||sukima.me^
 ||sunporno.com^
 ||survivalistboards.com^
-||svpri.xyz^
 ||swfa.com^
 ||sword-buyers-guide.com^
 ||t.me^
@@ -629,7 +628,6 @@
 ||usmessageboard.com^
 ||utubejobs.com^
 ||uzitalk.com^
-||v3.fstats.xyz^
 ||vdare.com^
 ||vessel.line-apps.com^
 ||vhldwuv6om.com^
@@ -685,6 +683,7 @@
 ||yuki-cdn.line-apps.com^
 ||yuvutu.com^
 ||zamnesia.com^
+||zendproxy.com^
 ||zerochan.net^
 ||znakomstva.ru^
 ||zundelsite.org^

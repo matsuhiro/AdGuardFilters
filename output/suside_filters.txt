@@ -55,6 +55,7 @@
 ||reachout.com^
 ||recover-your-life.com^
 ||sanctioned-suicide.com^
+||sanctioned-suicide.net^
 ||sanctuaryofhopelessness.com^
 ||self-injury.net^
 ||selfharm.uk^

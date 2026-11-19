@@ -9,6 +9,7 @@
 ||camillesanz.com^
 ||cazala.github.io^
 ||cinemafacil.com^
+||dekoder.ws^
 ||eruuludam.mn^
 ||etacontent.com^
 ||flightsy.win^
@@ -16,9 +17,7 @@
 ||go.bestmobiworld.com^
 ||go.megabanners.cf^
 ||herominers.com^
-||icerockmining.io^
 ||kinokongo.cc^
-||mine.blank.drawpad.org^
 ||mine.terorie.com^
 ||minero-proxy-*.now.sh^
 ||mining.best^
@@ -28,7 +27,6 @@
 ||nimiq.surf^
 ||nimiqchina.com^
 ||pzoifaum.info^
-||shrink-service.it^
 ||staticset.com^
 ||sun-mining.com^
 ||traffic.tc-clicks.com^
